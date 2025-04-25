@@ -1,3 +1,106 @@
+/* /GameComponents/BirdComparator.razor.rz.scp.css */
+.correct[b-jolm4okqmk] {
+    background-color: var(--matcha-base);
+}
+
+.incorrect[b-jolm4okqmk] {
+    background-color: palevioletred;
+}
+
+.incomplete[b-jolm4okqmk] {
+    background-color: coral;
+}
+
+.birdComparator[b-jolm4okqmk] {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-gap: 1px;
+    
+    padding-top: 0.5rem;
+    
+    width: 85vw;
+    height: calc(85vw / 6);
+}
+
+.order[b-jolm4okqmk], .family[b-jolm4okqmk], .name[b-jolm4okqmk] {
+    font-size: 1.75rem;
+}
+
+.wingspan[b-jolm4okqmk], .length[b-jolm4okqmk], .region[b-jolm4okqmk]{
+    font-size: 2.5rem;
+}
+
+.birdComparator div[b-jolm4okqmk] {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 0.75rem;
+    
+    border: 2px solid var(--matcha-secondary);
+    /*border-top: 2px solid var(--matcha-secondary);*/
+    /*border-bottom: 2px solid var(--matcha-secondary);*/
+    /*border-left: 2px solid var(--matcha-secondary);*/
+}
+/*.birdComparator div:last-child {*/
+/*    border-right: 2px solid var(--matcha-secondary);*/
+/*}*/
+
+.birdComparator div p[b-jolm4okqmk] {
+    margin: 0;
+    padding: 0;
+    inline-size: 100%;
+
+    overflow-wrap: break-word;
+    
+    justify-self: center;
+    text-align: center;
+}
+
+i[b-jolm4okqmk] {
+    padding-right: 1rem;
+}
+/* /GameComponents/Birdle.razor.rz.scp.css */
+.birdle[b-medcsg4zpg]{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
+
+.guessBlock[b-medcsg4zpg] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    
+    width: 85vw;
+}
+
+.columns[b-medcsg4zpg] {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-gap: 1px;
+    
+    width: 85vw;
+}
+
+.label[b-medcsg4zpg] {
+    justify-self: center;
+    text-align: center;
+    
+    font-size: 1.5rem;
+}
+
+button[b-medcsg4zpg] {
+    background-color: var(--matcha-secondary);
+    border-radius: 0.75rem;
+}
 /* /GameComponents/Multiples.razor.rz.scp.css */
 .gameContainer[b-inj9ldcduy] {
     display: flex;
@@ -97,9 +200,14 @@
 
 @media(max-width: 767px) {
     .multiples[b-inj9ldcduy] {
-        width: calc(100vw - 1rem);
-        height: calc(100vw - 1rem);
+        width: calc(100vw - 2rem);
+        height: calc(100vw - 2rem);
     }
+}
+
+.gestureHandler[b-inj9ldcduy] {
+    display: flex;
+    flex-direction: column;
 }
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-2cbgetwl1x] {
@@ -355,6 +463,55 @@ p[b-bwx52xp0tx] {
     font-size: 1.5rem;
     justify-self: start;
     justify-items: left;
+}
+/* /Shared/SearchableDropdown.razor.rz.scp.css */
+.searchableDropdown[b-7wnsi0vd4y] {
+    width: 45vw;
+    
+    margin: 0.5rem;
+}
+
+.selectBox[b-7wnsi0vd4y] {
+    height: 15vw;
+    overflow-y: scroll;
+}
+
+.searchItem[b-7wnsi0vd4y] {
+    color: var(--dark-text-color);
+    
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    
+    border-top: 1px solid var(--dark-cream);
+    border-left: 1px solid var(--dark-cream);
+    border-right: 1px solid var(--dark-cream);
+    border-radius: 0.25rem;
+}
+.searchItem:last-of-type[b-7wnsi0vd4y] {
+    border-bottom: 1px solid var(--dark-cream);
+}
+.searchItem:hover[b-7wnsi0vd4y] {
+    background-color: var(--dark-cream);
+}
+
+input[b-7wnsi0vd4y] {
+    width: 100%;
+    align-self: center;
+    
+    margin: 0.5rem 0 0.5rem 0;
+    
+    font-size: 1.5rem;
+    
+    background-color: var(--dark-cream);
+    color: var(--dark-subtext-color);
+    
+    border: 2px solid var(--matcha-secondary);
+    border-radius: 0.25rem;
+}
+
+p[b-7wnsi0vd4y] {
+    margin: 0;
+    justify-self: center;
 }
 /* /Shared/SketchCard.razor.rz.scp.css */
 .sketchCard[b-pn41e4yzs1] {

@@ -1,0 +1,2861 @@
+[
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1654981853680-2e7830d61cae"
+    ], "lengthMin": 63, "lengthMax": 65, "wingspanMin": 108, "wingspanMax": 111, "name": "Cackling Goose",
+    "id": 8, "sciName": "Branta hutchinsii", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1513209395699-7a1e7f745942",
+      "https://images.unsplash.com/photo-1484704324500-528d0ae4dc7d"
+    ], "lengthMin": 76, "lengthMax": 110, "wingspanMin": 127, "wingspanMax": 170, "name": "Canada Goose",
+    "id": 9, "sciName": "Branta canadensis", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1582730463790-3c3864de6cbf",
+      "https://images.unsplash.com/photo-1661141464435-858f68c4b8f0"
+    ], "lengthMin": 127, "lengthMax": 152, "wingspanMin": 208, "wingspanMax": 238, "name": "Mute Swan",
+    "id": 10, "sciName": "Cygnus olor", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1604338834026-0aec6ac202bf",
+      "https://images.unsplash.com/photo-1535586315911-7fafb6a273f7",
+      "https://images.unsplash.com/photo-1657352392735-030771a297a9"
+    ], "lengthMin": 66, "lengthMax": 84, "wingspanMin": 137, "wingspanMax": 152, "name": "Muscovy Duck",
+    "id": 13, "sciName": "Cairina moschata", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1517465096483-7631c1c48b75",
+      "https://images.unsplash.com/photo-1577049212826-147af542a379"
+    ], "lengthMin": 47, "lengthMax": 54, "wingspanMin": 66, "wingspanMax": 73, "name": "Wood Duck", "id": 14,
+    "sciName": "Aix sponsa", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662692837581-4df7428e1c5b"
+    ], "lengthMin": 36, "lengthMax": 41, "wingspanMin": 56, "wingspanMax": 62, "name": "Blue-winged Teal",
+    "id": 15, "sciName": "Spatula discors", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/NorthernShoveler4.jpg",
+      "https://images.unsplash.com/photo-1623974108424-5fe2542553b4"
+    ], "lengthMin": 44, "lengthMax": 51, "wingspanMin": 69, "wingspanMax": 84, "name": "Northern Shoveler",
+    "id": 17, "sciName": "Spatula clypeata", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1579444798661-ce60beaa0413",
+      "https://images.unsplash.com/photo-1465247431621-ae634a2477be"
+    ], "lengthMin": 50, "lengthMax": 65, "wingspanMin": 82, "wingspanMax": 95, "name": "Mallard", "id": 21,
+    "sciName": "Anas platyrhynchos", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1659664007103-e0ad4701973e",
+      "https://images.unsplash.com/photo-1645798947982-ea7c61374fc2"
+    ], "lengthMin": 54, "lengthMax": 59, "wingspanMin": 88, "wingspanMax": 95, "name": "American Black Duck",
+    "id": 22, "sciName": "Anas rubripes", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662682093478-ec57603050d0",
+      "https://images.unsplash.com/photo-1627072787938-2242eec34776",
+      "https://images.unsplash.com/photo-1661611065188-7d9c1dfd86d3"
+    ], "lengthMin": 50, "lengthMax": 57, "wingspanMin": 83, "wingspanMax": 87, "name": "Mottled Duck",
+    "id": 23, "sciName": "Anas fulvigula", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Red Watch List", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1604040058326-a3b482c6fe27",
+      "https://images.unsplash.com/photo-1611523697878-3cd0e13b6d2d"
+    ], "lengthMin": 48, "lengthMax": 56, "wingspanMin": 79, "wingspanMax": 89, "name": "Canvasback", "id": 26,
+    "sciName": "Aythya valisineria", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662905048828-b922c97a2332"
+    ], "lengthMin": 39, "lengthMax": 46, "wingspanMin": 62, "wingspanMax": 63, "name": "Ring-necked Duck",
+    "id": 28, "sciName": "Aythya collaris", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1630497946593-2d38c0fd65a7"
+    ], "lengthMin": 39, "lengthMax": 56, "wingspanMin": 72, "wingspanMax": 79, "name": "Greater Scaup",
+    "id": 29, "sciName": "Aythya marila", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1632700601246-75a49a9ce4bc"
+    ], "lengthMin": 39, "lengthMax": 46, "wingspanMin": 68, "wingspanMax": 78, "name": "Lesser Scaup", "id": 30,
+    "sciName": "Aythya affinis", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1648560138555-8e0cda4f121a",
+      "https://images.unsplash.com/photo-1648560273333-16ba73206026",
+      "https://images.unsplash.com/photo-1648560264247-572dfc7c6bc2"
+    ], "lengthMin": 50, "lengthMax": 71, "wingspanMin": 95, "wingspanMax": 98, "name": "Common Eider",
+    "id": 34, "sciName": "Somateria mollissima", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1641578391156-57e0cc51edc1",
+      "https://images.unsplash.com/photo-1643305379617-220c0b19b330"
+    ], "lengthMin": 34, "lengthMax": 46, "wingspanMin": 56, "wingspanMax": 66, "name": "Harlequin Duck",
+    "id": 35, "sciName": "Histrionicus histrionicus", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1645799142571-5e075c44dbbf"
+    ], "lengthMin": 48, "lengthMax": 60, "wingspanMin": 76, "wingspanMax": 77, "name": "Surf Scoter", "id": 36,
+    "sciName": "Melanitta perspicillata", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1643032683525-3bc8cfe066bb",
+      "https://images.unsplash.com/photo-1641994843735-e961df61ae30",
+      "https://images.unsplash.com/photo-1645659453827-39d9b382faee"
+    ], "lengthMin": 40, "lengthMax": 47, "wingspanMin": 71, "wingspanMax": 72, "name": "Long-tailed Duck",
+    "id": 39, "sciName": "Clangula hyemalis", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1610472904591-20dbfbd8f2d1",
+      "https://images.unsplash.com/photo-1610472904671-3bdccad15e07"
+    ], "lengthMin": 40, "lengthMax": 51, "wingspanMin": 77, "wingspanMax": 83, "name": "Common Goldeneye",
+    "id": 41, "sciName": "Bucephala clangula", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662179712146-e52345dec602",
+      "https://images.unsplash.com/photo-1660349392161-07ee619b2ca2"
+    ], "lengthMin": 40, "lengthMax": 49, "wingspanMin": 60, "wingspanMax": 66, "name": "Hooded Merganser",
+    "id": 43, "sciName": "Lophodytes cucullatus", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1648560308786-82aefa021098"
+    ], "lengthMin": 51, "lengthMax": 64, "wingspanMin": 66, "wingspanMax": 74, "name": "Red-breasted Merganser",
+    "id": 45, "sciName": "Mergus serrator", "region": [
+    "NA"
+  ], "family": "Anatidae", "order": "Anseriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1628634566983-09cec4449c06"
+    ], "lengthMin": 24, "lengthMax": 27, "wingspanMin": 32, "wingspanMax": 37, "name": "California Quail",
+    "id": 51, "sciName": "Callipepla californica", "region": [
+    "NA"
+  ], "family": "Odontophoridae", "order": "Galliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/WildTurkey.jpg",
+      "https://images.unsplash.com/photo-1602595190586-bffca5064d6b"
+    ], "lengthMin": 110, "lengthMax": 115, "wingspanMin": 125, "wingspanMax": 144, "name": "Wild Turkey",
+    "id": 54, "sciName": "Meleagris gallopavo", "region": [
+    "NA"
+  ], "family": "Phasianidae", "order": "Galliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1649279595525-9b54bf435e16"
+    ], "lengthMin": 44, "lengthMax": 57, "wingspanMin": 65, "wingspanMax": 67, "name": "Dusky Grouse", "id": 58,
+    "sciName": "Dendragapus obscurus", "region": [
+    "NA"
+  ], "family": "Phasianidae", "order": "Galliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1622909967994-49e65035ffeb"
+    ], "lengthMin": 50, "lengthMax": 70, "wingspanMin": 56, "wingspanMax": 86, "name": "Ring-necked Pheasant",
+    "id": 68, "sciName": "Phasianus colchicus", "region": [
+    "NA"
+  ], "family": "Phasianidae", "order": "Galliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1642081117189-9fda3be13009",
+      "https://images.unsplash.com/photo-1604241203809-1a79414f051f"
+    ], "lengthMin": 30, "lengthMax": 38, "wingspanMin": 45, "wingspanMax": 62, "name": "Pied-billed Grebe",
+    "id": 71, "sciName": "Podilymbus podiceps", "region": [
+    "NA"
+  ], "family": "Podicipedidae", "order": "Podicipediformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1641579696391-b6688c50b34d"
+    ], "lengthMin": 31, "lengthMax": 38, "wingspanMin": 44, "wingspanMax": 46, "name": "Horned Grebe", "id": 72,
+    "sciName": "Podiceps auritus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Podicipedidae", "order": "Podicipediformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617946546355-6ee938390350",
+      "https://images.unsplash.com/photo-1593498300377-05fd4ad0c65b",
+      "https://images.unsplash.com/photo-1617946546621-b7f346930575"
+    ], "lengthMin": 30, "lengthMax": 36, "wingspanMin": 50, "wingspanMax": 67, "name": "Rock Pigeon", "id": 77,
+    "sciName": "Columba livia", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Columbidae", "order": "Columbiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1603206988834-89810cbea1d0"
+    ], "lengthMin": 26, "lengthMax": 30, "wingspanMin": 38, "wingspanMax": 43, "name": "Yellow-billed Cuckoo",
+    "id": 90, "sciName": "Coccyzus americanus", "region": [
+    "NA"
+  ], "family": "Cuculidae", "order": "Cuculiformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662686670235-1b1fa1540010",
+      "https://images.unsplash.com/photo-1662686565474-d298c59eeb7c"
+    ], "lengthMin": 22, "lengthMax": 24, "wingspanMin": 53, "wingspanMax": 57, "name": "Common Nighthawk",
+    "id": 94, "sciName": "Chordeiles minor", "region": [
+    "NA"
+  ], "family": "Caprimulgidae", "order": "Caprimulgiformes", "status": "Common Bird in Steep Decline",
+    "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1652794773884-bd659391c605"
+    ], "lengthMin": 12, "lengthMax": 15, "wingspanMin": 27, "wingspanMax": 30, "name": "Chimney Swift",
+    "id": 100, "sciName": "Chaetura pelagica", "region": [
+    "NA"
+  ], "family": "Apodidae", "order": "Caprimulgiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1607030396118-721d84ae0ff1",
+      "https://images.unsplash.com/photo-1627092956631-282690fd3752",
+      "https://images.unsplash.com/photo-1601327391708-6baea102658a"
+    ], "lengthMin": 7, "lengthMax": 9, "wingspanMin": 8, "wingspanMax": 11, "name": "Ruby-throated Hummingbird",
+    "id": 106, "sciName": "Archilochus colubris", "region": [
+    "NA"
+  ], "family": "Trochilidae", "order": "Caprimulgiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1541982198-d02a6c45b8ad"
+    ], "lengthMin": 8, "lengthMax": 9, "wingspanMin": 10, "wingspanMax": 11, "name": "Calliope Hummingbird",
+    "id": 110, "sciName": "Selasphorus calliope", "region": [
+    "NA"
+  ], "family": "Trochilidae", "order": "Caprimulgiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/CommonGalinule.jpg",
+      "https://images.unsplash.com/photo-1597777209916-d0d704192dbd"
+    ], "lengthMin": 32, "lengthMax": 35, "wingspanMin": 54, "wingspanMax": 62, "name": "Common Gallinule",
+    "id": 122, "sciName": "Gallinula galeata", "region": [
+    "NA"
+  ], "family": "Rallidae", "order": "Gruiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/AmericanCoot.jpg"
+    ], "lengthMin": 39, "lengthMax": 42, "wingspanMin": 58, "wingspanMax": 63, "name": "American Coot",
+    "id": 123, "sciName": "Fulica americana", "region": [
+    "NA"
+  ], "family": "Rallidae", "order": "Gruiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1643115084816-d0f26b6d322b",
+      "https://images.unsplash.com/photo-1642261102460-7c6cd641f541"
+    ], "lengthMin": 33, "lengthMax": 37, "wingspanMin": 55, "wingspanMax": 56, "name": "Purple Gallinule",
+    "id": 124, "sciName": "Porphyrio martinica", "region": [
+    "NA"
+  ], "family": "Rallidae", "order": "Gruiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1623798274833-3d0fd933eb6a",
+      "https://images.unsplash.com/photo-1565362770793-40960cd13569",
+      "https://images.unsplash.com/photo-1623798275602-2a5cdfb7fb57"
+    ], "lengthMin": 63, "lengthMax": 72, "wingspanMin": 101, "wingspanMax": 107, "name": "Limpkin",
+    "id": 128, "sciName": "Aramus guarauna", "region": [
+    "NA"
+  ], "family": "Aramidae", "order": "Gruiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1660227060178-3fda4fc94906"
+    ], "lengthMin": 35, "lengthMax": 39, "wingspanMin": 71, "wingspanMax": 75, "name": "Black-necked Stilt",
+    "id": 131, "sciName": "Himantopus mexicanus", "region": [
+    "NA"
+  ], "family": "Recurvirostridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1614702904018-d2bc3eacf124"
+    ], "lengthMin": 15, "lengthMax": 17, "wingspanMin": 34, "wingspanMax": 43, "name": "Snowy Plover",
+    "id": 138, "sciName": "Charadrius nivosus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Charadriidae", "order": "Charadriiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1658227431556-cebc0f037ded",
+      "https://images.unsplash.com/photo-1658227506549-7407aa5dc4b8",
+      "https://images.unsplash.com/photo-1662410407250-d37ce20cc62e"
+    ], "lengthMin": 17, "lengthMax": 19, "wingspanMin": 47, "wingspanMax": 50, "name": "Semipalmated Plover",
+    "id": 140, "sciName": "Charadrius semipalmatus", "region": [
+    "NA"
+  ], "family": "Charadriidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1506370990336-4e9a83bc4232",
+      "https://images.unsplash.com/photo-1612298484733-a364a2f99210",
+      "https://images.unsplash.com/photo-1597779610075-264e3f05ca3b"
+    ], "lengthMin": 20, "lengthMax": 28, "wingspanMin": 46, "wingspanMax": 48, "name": "Killdeer", "id": 142,
+    "sciName": "Charadrius vociferus", "region": [
+    "NA"
+  ], "family": "Charadriidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1654445113497-0ec7154d13f6",
+      "https://images.unsplash.com/photo-1654445112676-8309af102839",
+      "https://images.unsplash.com/photo-1614703484114-15d83f79f57b"
+    ], "lengthMin": 43, "lengthMax": 46, "wingspanMin": 80, "wingspanMax": 83, "name": "Whimbrel", "id": 145,
+    "sciName": "Numenius phaeopus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1597245622837-6b621ab514e0",
+      "https://images.unsplash.com/photo-1629493502278-48065bb4f6d8",
+      "https://images.unsplash.com/photo-1616954710512-1af25dc47e22"
+    ], "lengthMin": 50, "lengthMax": 65, "wingspanMin": 62, "wingspanMax": 89, "name": "Long-billed Curlew",
+    "id": 146, "sciName": "Numenius americanus", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1627004107778-caef852561ff",
+      "https://images.unsplash.com/photo-1597245622359-d06481aab48b"
+    ], "lengthMin": 42, "lengthMax": 48, "wingspanMin": 70, "wingspanMax": 81, "name": "Marbled Godwit",
+    "id": 148, "sciName": "Limosa fedoa", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Restricted Range", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1634505046932-57fb5171c05a",
+      "https://images.unsplash.com/photo-1634236210581-e167c2773820",
+      "https://images.unsplash.com/photo-1634236211347-d95a441a68a5"
+    ], "lengthMin": 16, "lengthMax": 21, "wingspanMin": 50, "wingspanMax": 57, "name": "Ruddy Turnstone",
+    "id": 149, "sciName": "Arenaria interpres", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1641665312217-24c9b5f685f2",
+      "https://images.unsplash.com/photo-1641665665951-23acf74d4dfc"
+    ], "lengthMin": 16, "lengthMax": 22, "wingspanMin": 36, "wingspanMax": 38, "name": "Dunlin", "id": 155,
+    "sciName": "Calidris alpina", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1619006984283-d7810b8f65cf"
+    ], "lengthMin": 20, "lengthMax": 22, "wingspanMin": 42, "wingspanMax": 46, "name": "Purple Sandpiper",
+    "id": 157, "sciName": "Calidris maritima", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Restricted Range", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1597246359597-0e3914478f68"
+    ], "lengthMin": 14, "lengthMax": 18, "wingspanMin": 35, "wingspanMax": 38, "name": "Baird\u0027s Sandpiper",
+    "id": 158, "sciName": "Calidris bairdii", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1645563146565-02b724df9038",
+      "https://images.unsplash.com/photo-1610826128389-ae3e0f31e81d"
+    ], "lengthMin": 13, "lengthMax": 15, "wingspanMin": 27, "wingspanMax": 28, "name": "Least Sandpiper",
+    "id": 159, "sciName": "Calidris minutilla", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1629325727559-94ce5215d26c"
+    ], "lengthMin": 15, "lengthMax": 18, "wingspanMin": 40, "wingspanMax": 44, "name": "White-rumped Sandpiper",
+    "id": 160, "sciName": "Calidris fuscicollis", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662120527714-0a3ec81f2cca"
+    ], "lengthMin": 15, "lengthMax": 18, "wingspanMin": 35, "wingspanMax": 37, "name": "Semipalmated Sandpiper",
+    "id": 163, "sciName": "Calidris pusilla", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/flagged/photo-1553368189-6c76d70a44d2"
+    ], "lengthMin": 18, "lengthMax": 20, "wingspanMin": 37, "wingspanMax": 40, "name": "Spotted Sandpiper",
+    "id": 172, "sciName": "Actitis macularius", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1609527847383-e24254fdd2aa"
+    ], "lengthMin": 19, "lengthMax": 23, "wingspanMin": 55, "wingspanMax": 57, "name": "Solitary Sandpiper",
+    "id": 173, "sciName": "Tringa solitaria", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/WanderingTattler.jpg",
+      "https://images.unsplash.com/photo-1603316117302-20f430859e61"
+    ], "lengthMin": 26, "lengthMax": 30, "wingspanMin": 50, "wingspanMax": 55, "name": "Wandering Tattler",
+    "id": 174, "sciName": "Tringa incana", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Restricted Range", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1656451935256-7805e1fb5c1e",
+      "https://images.unsplash.com/photo-1656441089770-a77d88c433cb"
+    ], "lengthMin": 23, "lengthMax": 27, "wingspanMin": 59, "wingspanMax": 64, "name": "Lesser Yellowlegs",
+    "id": 177, "sciName": "Tringa flavipes", "region": [
+    "NA"
+  ], "family": "Scolopacidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1561651653-a78f4eb91dcf",
+      "https://images.unsplash.com/photo-1561562626-385d2491ae49",
+      "https://images.unsplash.com/photo-1561539197-d4c1a75a6c17"
+    ], "lengthMin": 30, "lengthMax": 32, "wingspanMin": 52, "wingspanMax": 58, "name": "Black Guillemot",
+    "id": 185, "sciName": "Cepphus grylle", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Alcidae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1656513430343-0b5e6daa2640",
+      "https://images.unsplash.com/photo-1656513421046-192bd17726ec",
+      "https://images.unsplash.com/photo-1656513732010-5f56c8f21212"
+    ], "lengthMin": 28, "lengthMax": 30, "wingspanMin": 90, "wingspanMax": 100, "name": "Bonaparte\u0027s Gull",
+    "id": 198, "sciName": "Chroicocephalus philadelphia", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1628001463052-b4a2bb18b78c",
+      "https://images.unsplash.com/photo-1620994387071-1b16ff2f4e27",
+      "https://images.unsplash.com/photo-1628001462362-0788e8899bf2"
+    ], "lengthMin": 39, "lengthMax": 46, "wingspanMin": 92, "wingspanMax": 120, "name": "Laughing Gull",
+    "id": 202, "sciName": "Leucophaeus atricilla", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1645663700036-cf839b55e306",
+      "https://images.unsplash.com/photo-1660178123013-af07d02813f0"
+    ], "lengthMin": 43, "lengthMax": 54, "wingspanMin": 105, "wingspanMax": 117, "name": "Ring-billed Gull",
+    "id": 206, "sciName": "Larus delawarensis", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1574105079640-5b3ebd6fb7a5"
+    ], "lengthMin": 56, "lengthMax": 66, "wingspanMin": 120, "wingspanMax": 144, "name": "Western Gull",
+    "id": 207, "sciName": "Larus occidentalis", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Restricted Range", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1556653631-2cd10fb4c440",
+      "https://images.unsplash.com/photo-1614786849327-813280e11a82",
+      "https://images.unsplash.com/photo-1650998430641-ee107225a74a"
+    ], "lengthMin": 56, "lengthMax": 66, "wingspanMin": 137, "wingspanMax": 146, "name": "Herring Gull",
+    "id": 209, "sciName": "Larus argentatus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1627004107746-fb41afdd809d",
+      "https://images.unsplash.com/photo-1640610033423-40cac92c1244"
+    ], "lengthMin": 52, "lengthMax": 64, "wingspanMin": 135, "wingspanMax": 150,
+    "name": "Lesser Black-backed Gull", "id": 211, "sciName": "Larus fuscus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1656513321623-78d54f36dde8",
+      "https://images.unsplash.com/photo-1645659772385-0f7e67aab642"
+    ], "lengthMin": 71, "lengthMax": 79, "wingspanMin": 146, "wingspanMax": 160,
+    "name": "Great Black-backed Gull", "id": 214, "sciName": "Larus marinus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": [
+    {
+      "date": "2012-06-03", "loc": "Parsons Beach Rd, Kennebunk, Maine", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "flight call", "gen": "Larus",
+      "rec": "Paul Marvin", "ssp": "", "rmk": "called from large and mixed species gull flock, presumed in flight",
+      "file": "https://xeno-canto.org/161141/download", "uploaded": "2013-12-28", "playback-used": "no", "id": "161141",
+      "sp": "marinus", "lat": "43.3463", "lng": "-70.519", "bird-seen": "no", "length": "0:14", "cnt": "United States",
+      "sono": {
+        "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC161141-small.png",
+        "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC161141-large.png",
+        "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC161141-med.png",
+        "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC161141-full.png"
+      }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      ""
+    ], "url": "//xeno-canto.org/161141", "q": "B",
+      "file-name": "XC161141-Great Black-backed Gull -ME, Parson\u0027s Beach area, June 03, \u200E2012, 0632 AM.mp3",
+      "time": "06:32"
+    },
+    {
+      "date": "2014-03-05", "loc": "Taylor\u0027s Refuge, Cinnaminson, NJ", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "long call", "gen": "Larus", "rec": "Paul Driver",
+      "ssp": "", "rmk": "", "file": "https://xeno-canto.org/168995/download", "uploaded": "2014-03-07",
+      "playback-used": "no", "id": "168995", "sp": "marinus", "lat": "40.027", "lng": "-74.99", "bird-seen": "yes",
+      "length": "0:06", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/FSCGENVPXK/ffts/XC168995-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/FSCGENVPXK/ffts/XC168995-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/FSCGENVPXK/ffts/XC168995-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/FSCGENVPXK/ffts/XC168995-full.png"
+    }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      ""
+    ], "url": "//xeno-canto.org/168995", "q": "B",
+      "file-name": "XC168995-GREAT BLACK-BACKED GULL long call Philadelphia PA 12,34pm 03052014 (2).mp3",
+      "time": "12:00"
+    },
+    {
+      "date": "2014-04-13", "loc": "Coastguard Station, Jones Beach, Long Island, New York", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "alarm call, call", "gen": "Larus",
+      "rec": "Daniel Parker", "ssp": "",
+      "rmk": "Two Great Black-backed Gulls and an American Herring Gull begin calling loudly when they notice a crab that a fisherman has just caught.",
+      "file": "https://xeno-canto.org/174367/download", "uploaded": "2014-04-14", "playback-used": "no", "id": "174367",
+      "sp": "marinus", "lat": null, "lng": null, "bird-seen": "yes", "length": "0:24", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC174367-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC174367-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC174367-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC174367-full.png"
+    }, "alt": "?", "en": "Great Black-backed Gull", "also": [
+      "Larus smithsonianus"
+    ], "url": "//xeno-canto.org/174367", "q": "C", "file-name": "XC174367-Great_Black-backed_Gull_7.mp3",
+      "time": "13:30"
+    },
+    {
+      "date": "2014-08-08", "loc": "Shinnecock State Park, Long Island, New York", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/4.0/", "type": "call", "gen": "Larus",
+      "rec": "Krzysztof Deoniziak", "ssp": "",
+      "rmk": "habitat: harbor\r\nbehaviour: birds were fighting over fish leftovers thrown in the water by a fisherman, one bird was eating all the food, another one was annoyed by this fact, producing calls",
+      "file": "https://xeno-canto.org/190474/download", "uploaded": "2014-08-11", "playback-used": "no", "id": "190474",
+      "sp": "marinus", "lat": "40.8433", "lng": "-72.4789", "bird-seen": "yes", "length": "0:15",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/VCROLXMVLX/ffts/XC190474-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/VCROLXMVLX/ffts/XC190474-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/VCROLXMVLX/ffts/XC190474-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/VCROLXMVLX/ffts/XC190474-full.png"
+    }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      ""
+    ], "url": "//xeno-canto.org/190474", "q": "B",
+      "file-name": "XC190474-larus_marinus_shinnecock_state_park_long_island_08.08.2014_1725.mp3", "time": "17:00"
+    },
+    {
+      "date": "2016-03-22", "loc": "Dryden (near  Ithaca), Tompkins County, New York", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Larus", "rec": "Tom Auer",
+      "ssp": "", "rmk": "", "file": "https://xeno-canto.org/308222/download", "uploaded": "2016-03-23",
+      "playback-used": "no", "id": "308222", "sp": "marinus", "lat": "42.4471", "lng": "-76.4377", "bird-seen": "yes",
+      "length": "0:06", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/YGVRCRTHHB/ffts/XC308222-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/YGVRCRTHHB/ffts/XC308222-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/YGVRCRTHHB/ffts/XC308222-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/YGVRCRTHHB/ffts/XC308222-full.png"
+    }, "alt": "300", "en": "Great Black-backed Gull", "also": [
+      "Larus smithsonianus",
+      "Larus delawarensis"
+    ], "url": "//xeno-canto.org/308222", "q": "C", "file-name": "XC308222-16-03-22-17-42-39_gbbg_extract.mp3",
+      "time": "17:42"
+    },
+    {
+      "date": "2020-07-24", "loc": "Sandy Hook, Monmouth Co., NJ", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Larus", "rec": "William Whitehead",
+      "ssp": "", "rmk": "Beach", "file": "https://xeno-canto.org/578652/download", "uploaded": "2020-07-24",
+      "playback-used": "no", "id": "578652", "sp": "marinus", "lat": "40.451", "lng": "-73.996", "bird-seen": "yes",
+      "length": "0:07", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC578652-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC578652-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC578652-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC578652-full.png"
+    }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      "Sterna hirundo"
+    ], "url": "//xeno-canto.org/578652", "q": "C", "file-name": "XC578652-GreatBlackBackedGull.mp3", "time": "08:00"
+    },
+    {
+      "date": "2020-08-10", "loc": "Barnegat, NJ", "birdId": 214, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/",
+      "type": "adult, call", "gen": "Larus", "rec": "William Whitehead", "ssp": "", "rmk": "Jetty along inlet",
+      "file": "https://xeno-canto.org/581749/download", "uploaded": "2020-08-11", "playback-used": "no", "id": "581749",
+      "sp": "marinus", "lat": "39.761", "lng": "-74.103", "bird-seen": "yes", "length": "0:29", "cnt": "United States",
+      "sono": {
+        "small": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC581749-small.png",
+        "large": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC581749-large.png",
+        "med": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC581749-med.png",
+        "full": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC581749-full.png"
+      }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      ""
+    ], "url": "//xeno-canto.org/581749", "q": "D", "file-name": "XC581749-GreatBlackBackedGull2.mp3", "time": "11:00"
+    },
+    {
+      "date": "2010-08-07", "loc": "South Beach, Chatham, Barnstable County, Massachusetts", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/2.5/", "type": "Call", "gen": "Larus", "rec": "Ian Davies",
+      "ssp": "",
+      "rmk": "Calls given in flight overhead by 3 birds, and then at the end part of a flock of ~30 birds started long calling.",
+      "file": "https://xeno-canto.org/59510/download", "uploaded": "2010-08-08", "playback-used": "unknown",
+      "id": "59510", "sp": "marinus", "lat": "41.621", "lng": "-69.968", "bird-seen": "unknown", "length": "0:15",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/SNHVNQVYJV/ffts/XC59510-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/SNHVNQVYJV/ffts/XC59510-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/SNHVNQVYJV/ffts/XC59510-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/SNHVNQVYJV/ffts/XC59510-full.png"
+    }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      "Sterna hirundo"
+    ], "url": "//xeno-canto.org/59510", "q": "A", "file-name": "GBBG_calls.mp3", "time": "?"
+    },
+    {
+      "date": "2020-10-24", "loc": "South Amboy, Middlesex County, New Jersey", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/4.0/", "type": "begging call", "gen": "Larus",
+      "rec": "William Whitehead", "ssp": "", "rmk": "Bayside", "file": "https://xeno-canto.org/597423/download",
+      "uploaded": "2020-10-24", "playback-used": "no", "id": "597423", "sp": "marinus", "lat": "40.476",
+      "lng": "-74.2676", "bird-seen": "yes", "length": "0:10", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC597423-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC597423-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC597423-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC597423-full.png"
+    }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      ""
+    ], "url": "//xeno-canto.org/597423", "q": "B", "file-name": "XC597423-GreatBlackBackedGull3.mp3", "time": "07:00"
+    },
+    {
+      "date": "2021-08-06", "loc": "Berkeley Township (near  Lacey Township), Ocean County, New Jersey", "birdId": 214,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/4.0/", "type": "call", "gen": "Larus", "rec": "William Whitehead",
+      "ssp": "", "rmk": "Beach", "file": "https://xeno-canto.org/666709/download", "uploaded": "2021-08-07",
+      "playback-used": "no", "id": "666709", "sp": "marinus", "lat": "39.7975", "lng": "-74.0976", "bird-seen": "yes",
+      "length": "0:11", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC666709-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC666709-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC666709-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC666709-full.png"
+    }, "alt": "0", "en": "Great Black-backed Gull", "also": [
+      ""
+    ], "url": "//xeno-canto.org/666709", "q": "B", "file-name": "XC666709-GreatBlackBackedGull4.mp3", "time": "08:00"
+    }
+  ]
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1634236211398-dbad2d9a7cb1",
+      "https://images.unsplash.com/photo-1634236210583-cfc13389f8f6",
+      "https://images.unsplash.com/photo-1597243690328-a9a7ef8419a4"
+    ], "lengthMin": 21, "lengthMax": 23, "wingspanMin": 48, "wingspanMax": 53, "name": "Least Tern", "id": 215,
+    "sciName": "Sternula antillarum", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1634236211352-bb2dc13b5884",
+      "https://images.unsplash.com/photo-1634505047142-f3d6a9d7d540"
+    ], "lengthMin": 23, "lengthMax": 36, "wingspanMin": 57, "wingspanMax": 60, "name": "Black Tern", "id": 218,
+    "sciName": "Chlidonias niger", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1597243690107-8a7616f65024",
+      "https://images.unsplash.com/photo-1654526136102-7470ee93ded9",
+      "https://images.unsplash.com/photo-1655800352385-a4715580f283"
+    ], "lengthMin": 31, "lengthMax": 38, "wingspanMin": 75, "wingspanMax": 80, "name": "Common Tern", "id": 220,
+    "sciName": "Sterna hirundo", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1558226008-65875bbfee5e"
+    ], "lengthMin": 28, "lengthMax": 39, "wingspanMin": 65, "wingspanMax": 75, "name": "Arctic Tern", "id": 221,
+    "sciName": "Sterna paradisaea", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1597779609275-c1352e9c616a",
+      "https://images.unsplash.com/photo-1597779608938-368d52c6eb7a",
+      "https://images.unsplash.com/photo-1627989900854-5cbae14f6539"
+    ], "lengthMin": 33, "lengthMax": 36, "wingspanMin": 78, "wingspanMax": 80, "name": "Forster\u0027s Tern",
+    "id": 222, "sciName": "Sterna forsteri", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1597243690398-fec2dfd87bf7",
+      "https://images.unsplash.com/photo-1597243690328-a9a7ef8419a4",
+      "https://images.unsplash.com/photo-1601095496359-5930b348c8c4"
+    ], "lengthMin": 45, "lengthMax": 50, "wingspanMin": 100, "wingspanMax": 110, "name": "Royal Tern",
+    "id": 223, "sciName": "Thalasseus maximus", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1593720821164-f62f5d3a2d2a",
+      "https://images.unsplash.com/photo-1659321986491-9b1e9b28ecc3",
+      "https://images.unsplash.com/photo-1597183156697-86addc674d06"
+    ], "lengthMin": 34, "lengthMax": 45, "wingspanMin": 84, "wingspanMax": 90, "name": "Sandwich Tern",
+    "id": 224, "sciName": "Thalasseus sandvicensis", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1597269134788-3c49a4a38a41",
+      "https://images.unsplash.com/photo-1598387498323-8ce38d56ad0c",
+      "https://images.unsplash.com/photo-1597246358717-88fda6e7ab38"
+    ], "lengthMin": 40, "lengthMax": 50, "wingspanMin": 109, "wingspanMax": 115, "name": "Black Skimmer",
+    "id": 226, "sciName": "Rynchops niger", "region": [
+    "NA"
+  ], "family": "Laridae", "order": "Charadriiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1660765181897-a992a8204b5a",
+      "https://images.unsplash.com/photo-1594379691485-79307d3bf722"
+    ], "lengthMin": 66, "lengthMax": 91, "wingspanMin": 104, "wingspanMax": 131, "name": "Common Loon",
+    "id": 229, "sciName": "Gavia immer", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Gaviidae", "order": "Gaviiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1643158573721-2bbb7aa034fb",
+      "https://images.unsplash.com/photo-1520582749333-c85ccec813a3"
+    ], "lengthMin": 79, "lengthMax": 81, "wingspanMin": 195, "wingspanMax": 203, "name": "Laysan Albatross",
+    "id": 230, "sciName": "Phoebastria immutabilis", "region": [
+    "NA"
+  ], "family": "Diomedeidae", "order": "Procellariiformes", "status": "Restricted Range", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662433452450-53a95263ed31",
+      "https://images.unsplash.com/photo-1646321031067-0920d034f1b4"
+    ], "lengthMin": 85, "lengthMax": 115, "wingspanMin": 150, "wingspanMax": 175, "name": "Wood Stork",
+    "id": 236, "sciName": "Mycteria americana", "region": [
+    "NA"
+  ], "family": "Ciconiidae", "order": "Ciconiiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1658807036136-217ddf7579dd",
+      "https://images.unsplash.com/photo-1659321986982-ac527a9a88a1",
+      "https://images.unsplash.com/photo-1597782264626-3a62b4d1ea83"
+    ], "lengthMin": 89, "lengthMax": 114, "wingspanMin": 217, "wingspanMax": 224,
+    "name": "Magnificent Frigatebird", "id": 237, "sciName": "Fregata magnificens", "region": [
+    "NA"
+  ], "family": "Fregatidae", "order": "Suliformes", "status": "Restricted Range", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1643093894148-1e57a0ce5da3",
+      "https://images.unsplash.com/photo-1642963033952-80adb386fc85"
+    ], "lengthMin": 64, "lengthMax": 85, "wingspanMin": 132, "wingspanMax": 155, "name": "Brown Booby",
+    "id": 240, "sciName": "Sula leucogaster", "region": [
+    "NA"
+  ], "family": "Sulidae", "order": "Suliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1616879264354-ea20c52e77e6"
+    ], "lengthMin": 93, "lengthMax": 110, "wingspanMin": 180, "wingspanMax": 184, "name": "Northern Gannet",
+    "id": 242, "sciName": "Morus bassanus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Sulidae", "order": "Suliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1636471211875-6caab5d1fbe4"
+    ], "lengthMin": 51, "lengthMax": 76, "wingspanMin": 100, "wingspanMax": 121, "name": "Pelagic Cormorant",
+    "id": 246, "sciName": "Urile pelagicus", "region": [
+    "NA"
+  ], "family": "Phalacrocoracidae", "order": "Suliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1515541109633-6b00a760ed3f",
+      "https://images.unsplash.com/photo-1612785351059-66b102a6fcfc",
+      "https://images.unsplash.com/photo-1562263882-29e401372525"
+    ], "lengthMin": 84, "lengthMax": 90, "wingspanMin": 130, "wingspanMax": 160, "name": "Great Cormorant",
+    "id": 247, "sciName": "Phalacrocorax carbo", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Phalacrocoracidae", "order": "Suliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1596435069748-4a3237f4ddd8",
+      "https://images.unsplash.com/photo-1628272631915-68f17fee93fd"
+    ], "lengthMin": 70, "lengthMax": 90, "wingspanMin": 114, "wingspanMax": 123,
+    "name": "Double-crested Cormorant", "id": 248, "sciName": "Nannopterum auritum", "region": [
+    "NA"
+  ], "family": "Phalacrocoracidae", "order": "Suliformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1627779297670-347bb212810e",
+      "https://images.unsplash.com/photo-1634609243764-6f3daacd0a49",
+      "https://images.unsplash.com/photo-1634609242939-d780c839ddd0"
+    ], "lengthMin": 127, "lengthMax": 165, "wingspanMin": 244, "wingspanMax": 290,
+    "name": "American White Pelican", "id": 250, "sciName": "Pelecanus erythrorhynchos", "region": [
+    "NA"
+  ], "family": "Pelecanidae", "order": "Pelecaniformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1609456878306-592aa2bc0eed",
+      "https://images.unsplash.com/photo-1591199519416-20106747b223"
+    ], "lengthMin": 97, "lengthMax": 137, "wingspanMin": 167, "wingspanMax": 201, "name": "Great Blue Heron",
+    "id": 254, "sciName": "Ardea herodias", "region": [
+    "NA"
+  ], "family": "Ardeidae", "order": "Pelecaniformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1530512645697-20fe002976b9",
+      "https://images.unsplash.com/photo-1508891340315-01db837fa0ab"
+    ], "lengthMin": 94, "lengthMax": 104, "wingspanMin": 131, "wingspanMax": 145, "name": "Great Egret",
+    "id": 255, "sciName": "Ardea alba", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Ardeidae", "order": "Pelecaniformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1607967601692-5a18b04fea44"
+    ], "lengthMin": 56, "lengthMax": 74, "wingspanMin": 100, "wingspanMax": 105, "name": "Little Blue Heron",
+    "id": 257, "sciName": "Egretta caerulea", "region": [
+    "NA"
+  ], "family": "Ardeidae", "order": "Pelecaniformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1664653909469-516cce75d26b"
+    ], "lengthMin": 46, "lengthMax": 56, "wingspanMin": 88, "wingspanMax": 96, "name": "Cattle Egret",
+    "id": 260, "sciName": "Bubulcus ibis", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Ardeidae", "order": "Pelecaniformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/GreenHeron1.jpg",
+      "https://images.unsplash.com/photo-1611534429435-f22970390b7f"
+    ], "lengthMin": 41, "lengthMax": 46, "wingspanMin": 64, "wingspanMax": 68, "name": "Green Heron", "id": 261,
+    "sciName": "Butorides virescens", "region": [
+    "NA"
+  ], "family": "Ardeidae", "order": "Pelecaniformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1621599016238-90682be6362b",
+      "https://images.unsplash.com/photo-1663738015390-1e32a523dac6"
+    ], "lengthMin": 58, "lengthMax": 66, "wingspanMin": 115, "wingspanMax": 118,
+    "name": "Black-crowned Night-Heron", "id": 262, "sciName": "Nycticorax nycticorax", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Ardeidae", "order": "Pelecaniformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662681773985-b7408465e67f",
+      "https://images.unsplash.com/photo-1662765949612-b325e6982217",
+      "https://images.unsplash.com/photo-1634328946777-796315577f01"
+    ], "lengthMin": 71, "lengthMax": 86, "wingspanMin": 120, "wingspanMax": 130, "name": "Roseate Spoonbill",
+    "id": 267, "sciName": "Platalea ajaja", "region": [
+    "NA"
+  ], "family": "Threskiornithidae", "order": "Pelecaniformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1517517974576-1b54a6732451",
+      "https://images.unsplash.com/photo-1628269480557-f2a82c292fd4"
+    ], "lengthMin": 60, "lengthMax": 68, "wingspanMin": 137, "wingspanMax": 150, "name": "Black Vulture",
+    "id": 269, "sciName": "Coragyps atratus", "region": [
+    "NA"
+  ], "family": "Cathartidae", "order": "Cathartiformes", "status": "Low Concern", "recordings": [
+    {
+      "date": "2013-07-07", "loc": "Orlando Wetlands, Christmas, Orange County, Florida", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "call", "gen": "Coragyps", "rec": "Paul Marvin",
+      "ssp": "", "rmk": "A couple of grunts and then some more grunts with flight takeoff from several birds",
+      "file": "https://xeno-canto.org/143650/download", "uploaded": "2013-07-27", "playback-used": "no", "id": "143650",
+      "sp": "atratus", "lat": "28.5785", "lng": "-80.9961", "bird-seen": "yes", "length": "0:17",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143650-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143650-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143650-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143650-full.png"
+    }, "alt": "0", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/143650", "q": "B",
+      "file-name": "XC143650-Black Vulture FL, Orlando Wetlands, July 07, 2013, 0747 AM.mp3", "time": "07:47"
+    },
+    {
+      "date": "2013-07-07", "loc": "Orlando Wetlands, Christmas, Orange County, Florida", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "call", "gen": "Coragyps", "rec": "Paul Marvin",
+      "ssp": "", "rmk": "a grunt from a bird on the ground", "file": "https://xeno-canto.org/143652/download",
+      "uploaded": "2013-07-27", "playback-used": "no", "id": "143652", "sp": "atratus", "lat": "28.5785",
+      "lng": "-80.9961", "bird-seen": "yes", "length": "0:05", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143652-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143652-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143652-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143652-full.png"
+    }, "alt": "0", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/143652", "q": "B",
+      "file-name": "XC143652-Black Vulture FL, Orlando Wetlands, July 07, 2013, 0749 AM part 1.mp3", "time": "07:49"
+    },
+    {
+      "date": "2013-07-07", "loc": "Orlando Wetlands, Christmas, Orange County, Florida", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "call", "gen": "Coragyps", "rec": "Paul Marvin",
+      "ssp": "", "rmk": "a grunt from a bird on the ground", "file": "https://xeno-canto.org/143654/download",
+      "uploaded": "2013-07-27", "playback-used": "no", "id": "143654", "sp": "atratus", "lat": "28.5785",
+      "lng": "-80.9961", "bird-seen": "yes", "length": "0:05", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143654-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143654-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143654-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143654-full.png"
+    }, "alt": "0", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/143654", "q": "B",
+      "file-name": "XC143654-Black Vulture FL, Orlando Wetlands, July 07, 2013, 0749 AM part 2.mp3", "time": "07:49"
+    },
+    {
+      "date": "2013-07-07", "loc": "Orlando Wetlands, Christmas, Orange County, Florida", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "call", "gen": "Coragyps", "rec": "Paul Marvin",
+      "ssp": "", "rmk": "odd grunts from a few birds in a tree", "file": "https://xeno-canto.org/143655/download",
+      "uploaded": "2013-07-27", "playback-used": "no", "id": "143655", "sp": "atratus", "lat": "28.5785",
+      "lng": "-80.9961", "bird-seen": "yes", "length": "0:13", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143655-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143655-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143655-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC143655-full.png"
+    }, "alt": "0", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/143655", "q": "A",
+      "file-name": "XC143655-Black Vulture in tree FL, Orlando Wetlands, July 07, 2013, 0720 AM.mp3", "time": "07:20"
+    },
+    {
+      "date": "2013-10-08", "loc": "Orlando Wetlands, Christmas, Orange County, Florida", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "call", "gen": "Coragyps", "rec": "Paul Marvin",
+      "ssp": "",
+      "rmk": "some interaction calls from a few birds among a couple of dozen on the ground,  heavily filtered to remove small aircraft noise",
+      "file": "https://xeno-canto.org/150218/download", "uploaded": "2013-10-10", "playback-used": "no", "id": "150218",
+      "sp": "atratus", "lat": "28.5785", "lng": "-80.9961", "bird-seen": "yes", "length": "0:25",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150218-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150218-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150218-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150218-full.png"
+    }, "alt": "0", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/150218", "q": "C",
+      "file-name": "XC150218-Black Vulture a couple dozen on ground interacting -FL, Orlando Wetlands, October 08, 2013, 1027 AM.mp3",
+      "time": "10:27"
+    },
+    {
+      "date": "2013-10-08", "loc": "Orlando Wetlands, Christmas, Orange County, Florida", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/3.0/", "type": "call", "gen": "Coragyps", "rec": "Paul Marvin",
+      "ssp": "", "rmk": "some interaction calls from a bird among a dozen on the ground",
+      "file": "https://xeno-canto.org/150219/download", "uploaded": "2013-10-10", "playback-used": "no", "id": "150219",
+      "sp": "atratus", "lat": "28.5785", "lng": "-80.9961", "bird-seen": "yes", "length": "0:12",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150219-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150219-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150219-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC150219-full.png"
+    }, "alt": "0", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/150219", "q": "A",
+      "file-name": "XC150219-Black Vulture among a dozen on ground interacting -FL, Orlando Wetlands, October 08, 2013, 1035 AM.mp3",
+      "time": "10:35"
+    },
+    {
+      "date": "2016-06-28", "loc": "4, Chestertown (near  Chestertown), Kent County, Maryland", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "juvenile", "gen": "Coragyps", "rec": "Jerald R",
+      "ssp": "", "rmk": "Trimmed. Juvenile in nest hissing at me.", "file": "https://xeno-canto.org/324803/download",
+      "uploaded": "2016-06-29", "playback-used": "no", "id": "324803", "sp": "atratus", "lat": "39.2189",
+      "lng": "-76.069", "bird-seen": "yes", "length": "0:05", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324803-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324803-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324803-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324803-full.png"
+    }, "alt": "20", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/324803", "q": "B", "file-name": "XC324803-BLVU_1530_6-28-16.mp3", "time": "15:30"
+    },
+    {
+      "date": "2016-06-28", "loc": "4, Chestertown (near  Chestertown), Kent County, Maryland", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "juvenile", "gen": "Coragyps", "rec": "Jerald R",
+      "ssp": "", "rmk": "Trimmed. Juvenile in nest hissing at me.", "file": "https://xeno-canto.org/324818/download",
+      "uploaded": "2016-06-29", "playback-used": "no", "id": "324818", "sp": "atratus", "lat": "39.2189",
+      "lng": "-76.069", "bird-seen": "yes", "length": "0:17", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324818-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324818-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324818-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/ESZPFEOQUM/ffts/XC324818-full.png"
+    }, "alt": "20", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/324818", "q": "C", "file-name": "XC324818-BLVU_1530_6-28-16_2_.mp3", "time": "15:30"
+    },
+    {
+      "date": "2019-01-06", "loc": "Orlando Wetlands, Christmas, Orange County, Florida", "birdId": 269,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Coragyps", "rec": "Paul Marvin",
+      "ssp": "", "rmk": "two taking flight out of a group of ten, grunting just before or as taking off.",
+      "file": "https://xeno-canto.org/451483/download", "uploaded": "2019-01-15", "playback-used": "no", "id": "451483",
+      "sp": "atratus", "lat": "28.5785", "lng": "-80.9961", "bird-seen": "yes", "length": "0:08",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC451483-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC451483-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC451483-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/RFTXRYBVBX/ffts/XC451483-full.png"
+    }, "alt": "0", "en": "Black Vulture", "also": [
+      ""
+    ], "url": "//xeno-canto.org/451483", "q": "B",
+      "file-name": "XC451483-Black Vulture 2 of 10 -FL, Orlando Wetlands, January 06, 2019, 1035 AM.mp3",
+      "time": "10:35"
+    }
+  ]
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1541440678366-ebb314356d69"
+    ], "lengthMin": 64, "lengthMax": 81, "wingspanMin": 170, "wingspanMax": 178, "name": "Turkey Vulture",
+    "id": 270, "sciName": "Cathartes aura", "region": [
+    "NA"
+  ], "family": "Cathartidae", "order": "Cathartiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1559403053-900e0c4abc8c",
+      "https://images.unsplash.com/photo-1604039100081-cedd87a4866e"
+    ], "lengthMin": 54, "lengthMax": 58, "wingspanMin": 150, "wingspanMax": 180, "name": "Osprey", "id": 271,
+    "sciName": "Pandion haliaetus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Pandionidae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1571862043040-b6f04fe906d9",
+      "https://images.unsplash.com/photo-1617140820689-62d0053144ee"
+    ], "lengthMin": 32, "lengthMax": 38, "wingspanMin": 99, "wingspanMax": 110, "name": "White-tailed Kite",
+    "id": 272, "sciName": "Elanus leucurus", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1570964251517-9e3442ffe368",
+      "https://images.unsplash.com/photo-1622116626849-8566a95d3aac"
+    ], "lengthMin": 70, "lengthMax": 84, "wingspanMin": 185, "wingspanMax": 220, "name": "Golden Eagle",
+    "id": 275, "sciName": "Aquila chrysaetos", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1593471250202-c830a0e5aba5",
+      "https://images.unsplash.com/photo-1592187020221-8291b3db64cc"
+    ], "lengthMin": 46, "lengthMax": 50, "wingspanMin": 102, "wingspanMax": 118, "name": "Northern Harrier",
+    "id": 278, "sciName": "Circus hudsonius", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1550956931-f6b33c5317af"
+    ], "lengthMin": 24, "lengthMax": 34, "wingspanMin": 43, "wingspanMax": 56, "name": "Sharp-shinned Hawk",
+    "id": 279, "sciName": "Accipiter striatus", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1628106727381-af76946a9cdf"
+    ], "lengthMin": 37, "lengthMax": 39, "wingspanMin": 62, "wingspanMax": 90, "name": "Cooper\u0027s Hawk",
+    "id": 280, "sciName": "Accipiter cooperii", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1575470072364-66297e542f35"
+    ], "lengthMin": 46, "lengthMax": 59, "wingspanMin": 103, "wingspanMax": 119, "name": "Harris\u0027s Hawk",
+    "id": 284, "sciName": "Parabuteo unicinctus", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1664562880101-d7dd7f60d352"
+    ], "lengthMin": 46, "lengthMax": 52, "wingspanMin": 128, "wingspanMax": 131, "name": "White-tailed Hawk",
+    "id": 285, "sciName": "Geranoaetus albicaudatus", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1659467457636-2a2de2495739"
+    ], "lengthMin": 43, "lengthMax": 61, "wingspanMin": 94, "wingspanMax": 111, "name": "Red-shouldered Hawk",
+    "id": 287, "sciName": "Buteo lineatus", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1618882428975-2c707d104a4c"
+    ], "lengthMin": 34, "lengthMax": 44, "wingspanMin": 81, "wingspanMax": 100, "name": "Broad-winged Hawk",
+    "id": 288, "sciName": "Buteo platypterus", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1623974109467-68cd795737be",
+      "https://images.unsplash.com/photo-1601246732941-61e686072bad"
+    ], "lengthMin": 45, "lengthMax": 56, "wingspanMin": 114, "wingspanMax": 133, "name": "Red-tailed Hawk",
+    "id": 292, "sciName": "Buteo jamaicensis", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1630858339469-243b20675a37",
+      "https://images.unsplash.com/photo-1631980852907-4fcd009d645c"
+    ], "lengthMin": 56, "lengthMax": 69, "wingspanMin": 133, "wingspanMax": 142, "name": "Ferruginous Hawk",
+    "id": 294, "sciName": "Buteo regalis", "region": [
+    "NA"
+  ], "family": "Accipitridae", "order": "Accipitriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1600892457290-84afbce878f0",
+      "https://images.unsplash.com/photo-1604605152447-1fcea1a333f3"
+    ], "lengthMin": 32, "lengthMax": 40, "wingspanMin": 100, "wingspanMax": 125, "name": "Barn Owl", "id": 295,
+    "sciName": "Tyto alba", "region": [
+    "NA"
+  ], "family": "Tytonidae", "order": "Strigiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1591981387032-273c31d96d2b"
+    ], "lengthMin": 16, "lengthMax": 25, "wingspanMin": 48, "wingspanMax": 61, "name": "Eastern Screech-Owl",
+    "id": 298, "sciName": "Megascops asio", "region": [
+    "NA"
+  ], "family": "Strigidae", "order": "Strigiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1543549790-8b5f4a028cfb",
+      "https://images.unsplash.com/photo-1517359828850-1a4aae6d70f9"
+    ], "lengthMin": 46, "lengthMax": 63, "wingspanMin": 101, "wingspanMax": 145, "name": "Great Horned Owl",
+    "id": 299, "sciName": "Bubo virginianus", "region": [
+    "NA"
+  ], "family": "Strigidae", "order": "Strigiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1526409049865-5b0b188372f1",
+      "https://images.unsplash.com/flagged/photo-1551337213-0b69f29206e7"
+    ], "lengthMin": 52, "lengthMax": 71, "wingspanMin": 126, "wingspanMax": 145, "name": "Snowy Owl", "id": 300,
+    "sciName": "Bubo scandiacus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Strigidae", "order": "Strigiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/barredOwl.jpg",
+      "https://images.unsplash.com/photo-1517517666444-6978df380b74",
+      "https://images.unsplash.com/photo-1517517727135-cd91ffe2327f"
+    ], "lengthMin": 43, "lengthMax": 50, "wingspanMin": 99, "wingspanMax": 110, "name": "Barred Owl", "id": 306,
+    "sciName": "Strix varia", "region": [
+    "NA"
+  ], "family": "Strigidae", "order": "Strigiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1567242235546-734f97ab24f7"
+    ], "lengthMin": 61, "lengthMax": 84, "wingspanMin": 137, "wingspanMax": 153, "name": "Great Gray Owl",
+    "id": 307, "sciName": "Strix nebulosa", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Strigidae", "order": "Strigiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617132062760-ed8a9625166f"
+    ], "lengthMin": 35, "lengthMax": 40, "wingspanMin": 90, "wingspanMax": 100, "name": "Long-eared Owl",
+    "id": 308, "sciName": "Asio otus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Strigidae", "order": "Strigiformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1591981813204-f5a433700b7b",
+      "https://images.unsplash.com/photo-1591981813250-cc0a530ca646"
+    ], "lengthMin": 34, "lengthMax": 43, "wingspanMin": 85, "wingspanMax": 103, "name": "Short-eared Owl",
+    "id": 309, "sciName": "Asio flammeus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Strigidae", "order": "Strigiformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662059765678-4236d2586940",
+      "https://images.unsplash.com/photo-1665403976178-6eee601867fa"
+    ], "lengthMin": 28, "lengthMax": 35, "wingspanMin": 48, "wingspanMax": 58, "name": "Belted Kingfisher",
+    "id": 314, "sciName": "Megaceryle alcyon", "region": [
+    "NA"
+  ], "family": "Alcedinidae", "order": "Coraciiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1643393588423-80e6f1b9c57c",
+      "https://images.unsplash.com/photo-1643393833320-7594a53dc61b"
+    ], "lengthMin": 20, "lengthMax": 22, "wingspanMin": 37, "wingspanMax": 40,
+    "name": "Red-breasted Sapsucker", "id": 319, "sciName": "Sphyrapicus ruber", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1584406696317-303c653823d9",
+      "https://images.unsplash.com/photo-1662428394167-2261daf4287f",
+      "https://images.unsplash.com/photo-1662428395401-f5cdaa848a97"
+    ], "lengthMin": 19, "lengthMax": 23, "wingspanMin": 35, "wingspanMax": 43, "name": "Acorn Woodpecker",
+    "id": 322, "sciName": "Melanerpes formicivorus", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1652377955984-fc075d84fbd4",
+      "https://images.unsplash.com/photo-1663434770583-63d39ed351ed"
+    ], "lengthMin": 22, "lengthMax": 24, "wingspanMin": 40, "wingspanMax": 42, "name": "Gila Woodpecker",
+    "id": 323, "sciName": "Melanerpes uropygialis", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1629304968646-b83e92ae1a1b",
+      "https://images.unsplash.com/photo-1629304968861-b8fcd19864db",
+      "https://images.unsplash.com/photo-1629304968386-46064b431078"
+    ], "lengthMin": 22, "lengthMax": 26, "wingspanMin": 42, "wingspanMax": 44,
+    "name": "Golden-fronted Woodpecker", "id": 324, "sciName": "Melanerpes aurifrons", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1615146101908-a8a3fce0074e",
+      "https://images.unsplash.com/photo-1615146102012-6e03b62fc96f",
+      "https://images.unsplash.com/photo-1645663371912-9fefcb11d6b7"
+    ], "lengthMin": 14, "lengthMax": 17, "wingspanMin": 25, "wingspanMax": 30, "name": "Downy Woodpecker",
+    "id": 328, "sciName": "Dryobates pubescens", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617994736836-e1b475355ed6",
+      "https://images.unsplash.com/photo-1648078383462-ef69074ca508",
+      "https://images.unsplash.com/photo-1644967754634-1b8f0cb5dea3"
+    ], "lengthMin": 18, "lengthMax": 26, "wingspanMin": 33, "wingspanMax": 41, "name": "Hairy Woodpecker",
+    "id": 332, "sciName": "Dryobates villosus", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1518570931581-f1d6f674af1b",
+      "https://images.unsplash.com/photo-1620588280287-ebb81815191e"
+    ], "lengthMin": 40, "lengthMax": 49, "wingspanMin": 66, "wingspanMax": 75, "name": "Pileated Woodpecker",
+    "id": 336, "sciName": "Dryocopus pileatus", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1657472577538-6f883e1ceed3",
+      "https://images.unsplash.com/photo-1646017222951-4083b99ad7a3",
+      "https://images.unsplash.com/photo-1656427975859-33165e16c47f"
+    ], "lengthMin": 28, "lengthMax": 31, "wingspanMin": 42, "wingspanMax": 51, "name": "Northern Flicker",
+    "id": 337, "sciName": "Colaptes auratus", "region": [
+    "NA"
+  ], "family": "Picidae", "order": "Piciformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1598214393417-05628fd5a647",
+      "https://images.unsplash.com/photo-1634235410834-a0a68671fb93"
+    ], "lengthMin": 49, "lengthMax": 58, "wingspanMin": 122, "wingspanMax": 125, "name": "Crested Caracara",
+    "id": 339, "sciName": "Caracara plancus", "region": [
+    "NA"
+  ], "family": "Falconidae", "order": "Falconiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1554236091-484dddfc8502"
+    ], "lengthMin": 22, "lengthMax": 31, "wingspanMin": 51, "wingspanMax": 61, "name": "American Kestrel",
+    "id": 340, "sciName": "Falco sparverius", "region": [
+    "NA"
+  ], "family": "Falconidae", "order": "Falconiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1611656564077-d9acc625bfc5",
+      "https://images.unsplash.com/photo-1635886771936-6ba69272bbec"
+    ], "lengthMin": 24, "lengthMax": 30, "wingspanMin": 53, "wingspanMax": 68, "name": "Merlin", "id": 341,
+    "sciName": "Falco columbarius", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Falconidae", "order": "Falconiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1626248575958-7e923159cfa7"
+    ], "lengthMin": 36, "lengthMax": 49, "wingspanMin": 100, "wingspanMax": 110, "name": "Peregrine Falcon",
+    "id": 344, "sciName": "Falco peregrinus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Falconidae", "order": "Falconiformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1662406079609-c88e34e84409",
+      "https://images.unsplash.com/photo-1662406075559-3842f6529745"
+    ], "lengthMin": 14, "lengthMax": 15, "wingspanMin": 22, "wingspanMax": 23, "name": "Acadian Flycatcher",
+    "id": 354, "sciName": "Empidonax virescens", "region": [
+    "NA"
+  ], "family": "Tyrannidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617657523416-c71df7a8d76e",
+      "https://images.unsplash.com/photo-1663860259872-1cbb227cc2d9",
+      "https://images.unsplash.com/photo-1629161155542-b4b8288234f5"
+    ], "lengthMin": 14, "lengthMax": 17, "wingspanMin": 26, "wingspanMax": 28, "name": "Eastern Phoebe",
+    "id": 365, "sciName": "Sayornis phoebe", "region": [
+    "NA"
+  ], "family": "Tyrannidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1666466888770-7ff0b6ad1a7e"
+    ], "lengthMin": 19, "lengthMax": 21, "wingspanMin": 30, "wingspanMax": 32,
+    "name": "Ash-throated Flycatcher", "id": 369, "sciName": "Myiarchus cinerascens", "region": [
+    "NA"
+  ], "family": "Tyrannidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/WesternKingbird.jpg"
+    ], "lengthMin": 20, "lengthMax": 24, "wingspanMin": 38, "wingspanMax": 41, "name": "Western Kingbird",
+    "id": 376, "sciName": "Tyrannus verticalis", "region": [
+    "NA"
+  ], "family": "Tyrannidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1591980415388-278b01e7524c",
+      "https://images.unsplash.com/photo-1654974209715-751f9d4766cd"
+    ], "lengthMin": 19, "lengthMax": 23, "wingspanMin": 33, "wingspanMax": 38, "name": "Eastern Kingbird",
+    "id": 377, "sciName": "Tyrannus tyrannus", "region": [
+    "NA"
+  ], "family": "Tyrannidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617739680332-187feea3c2c6"
+    ], "lengthMin": 10, "lengthMax": 12, "wingspanMin": 19, "wingspanMax": 21, "name": "Philadelphia Vireo",
+    "id": 389, "sciName": "Vireo philadelphicus", "region": [
+    "NA"
+  ], "family": "Vireonidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1598387137290-392fbf388f1d"
+    ], "lengthMin": 20, "lengthMax": 23, "wingspanMin": 28, "wingspanMax": 32, "name": "Loggerhead Shrike",
+    "id": 393, "sciName": "Lanius ludovicianus", "region": [
+    "NA"
+  ], "family": "Laniidae", "order": "Passeriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1623369026097-07d7aab15898",
+      "https://images.unsplash.com/photo-1576121267872-1c0c5c24e7f0"
+    ], "lengthMin": 25, "lengthMax": 30, "wingspanMin": 34, "wingspanMax": 43, "name": "Blue Jay", "id": 399,
+    "sciName": "Cyanocitta cristata", "region": [
+    "NA"
+  ], "family": "Corvidae", "order": "Passeriformes", "status": "Low Concern", "recordings": [
+    {
+      "date": "2019-11-18", "loc": "Valley Forge National Historical Park, Montgomery County, Pennsylvania",
+      "birdId": 399, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Cyanocitta",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/545363/download",
+      "uploaded": "2020-04-13", "playback-used": "no", "id": "545363", "sp": "cristata", "lat": "40.0975",
+      "lng": "-75.4497", "bird-seen": "yes", "length": "0:07", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545363-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545363-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545363-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545363-full.png"
+    }, "alt": "60", "en": "Blue Jay", "also": [
+      ""
+    ], "url": "//xeno-canto.org/545363", "q": "no score",
+      "file-name": "XC545363-BLJA_2019-11-18_Valley_Forge_NHP_PA_1303.mp3", "time": "13:03"
+    },
+    {
+      "date": "2019-11-21", "loc": "Tredyffrin Township (near  Wayne), Chester County, Pennsylvania", "birdId": 399,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Cyanocitta",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/545364/download",
+      "uploaded": "2020-04-13", "playback-used": "no", "id": "545364", "sp": "cristata", "lat": "40.092",
+      "lng": "-75.4258", "bird-seen": "yes", "length": "0:22", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545364-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545364-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545364-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545364-full.png"
+    }, "alt": "50", "en": "Blue Jay", "also": [
+      ""
+    ], "url": "//xeno-canto.org/545364", "q": "no score",
+      "file-name": "XC545364-BLJA_CACH_AMRO_2019-11-21_Wayne_PA_0935.mp3", "time": "09:35"
+    },
+    {
+      "date": "2020-05-07", "loc": "Kingfisher Point Natural Area (near  Fort Collins), Larimer County, Colorado",
+      "birdId": 399, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, call, sex uncertain",
+      "gen": "Cyanocitta", "rec": "Lori Zabel", "ssp": "",
+      "rmk": "Riparian Cottonwood/ Box Elder woodland. Group of at least 8 birds all calling from tree top.",
+      "file": "https://xeno-canto.org/555073/download", "uploaded": "2020-05-07", "playback-used": "no", "id": "555073",
+      "sp": "cristata", "lat": "40.5781", "lng": "-105.0445", "bird-seen": "yes", "length": "0:22",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/DMMWXYCKHR/ffts/XC555073-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/DMMWXYCKHR/ffts/XC555073-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/DMMWXYCKHR/ffts/XC555073-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/DMMWXYCKHR/ffts/XC555073-full.png"
+    }, "alt": "1500", "en": "Blue Jay", "also": [
+      ""
+    ], "url": "//xeno-canto.org/555073", "q": "no score",
+      "file-name": "XC555073-Blue Jays (online-audio-converter.com).mp3", "time": "08:00"
+    },
+    {
+      "date": "2021-03-26", "loc": "Deep Run Preserve (near  Old Bridge), Middlesex County, New Jersey", "birdId": 399,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/4.0/", "type": "Pump handle, call", "gen": "Cyanocitta",
+      "rec": "William Whitehead", "ssp": "", "rmk": "Mixed hardwood/pine forest",
+      "file": "https://xeno-canto.org/632164/download", "uploaded": "2021-03-26", "playback-used": "no", "id": "632164",
+      "sp": "cristata", "lat": "40.414", "lng": "-74.3523", "bird-seen": "yes", "length": "0:20",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC632164-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC632164-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC632164-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC632164-full.png"
+    }, "alt": "0", "en": "Blue Jay", "also": [
+      "Setophaga pinus"
+    ], "url": "//xeno-canto.org/632164", "q": "A", "file-name": "XC632164-BlueJay21.mp3", "time": "08:00"
+    },
+    {
+      "date": "2021-04-13", "loc": "Brookline, Hillsborough County, New Hampshire", "birdId": 399,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, sex uncertain, song", "gen": "Cyanocitta",
+      "rec": "Christopher McPherson", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/640349/download",
+      "uploaded": "2021-04-19", "playback-used": "no", "id": "640349", "sp": "cristata", "lat": "42.7134",
+      "lng": "-71.6445", "bird-seen": "yes", "length": "0:15", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC640349-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC640349-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC640349-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC640349-full.png"
+    }, "alt": "70", "en": "Blue Jay", "also": [
+      ""
+    ], "url": "//xeno-canto.org/640349", "q": "A", "file-name": "XC640349-Blue Jay_13Apr2021_Brookline NH.mp3",
+      "time": "12:30"
+    },
+    {
+      "date": "2021-06-02", "loc": "Lancy Brook Wetlands Brookline / Mason, Hillsborough County, New Hampshire",
+      "birdId": 399, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/",
+      "type": "call, life stage uncertain, mimicry/imitation, sex uncertain", "gen": "Cyanocitta",
+      "rec": "Christopher McPherson", "ssp": "", "rmk": "Mimicry: Blue Jay imitating a Red-shouldered Hawk",
+      "file": "https://xeno-canto.org/691160/download", "uploaded": "2021-12-12", "playback-used": "no", "id": "691160",
+      "sp": "cristata", "lat": "42.7463", "lng": "-71.7074", "bird-seen": "yes", "length": "0:06",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691160-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691160-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691160-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691160-full.png"
+    }, "alt": "110", "en": "Blue Jay", "also": [
+      ""
+    ], "url": "//xeno-canto.org/691160", "q": "A",
+      "file-name": "XC691160-Blue Jay_02Jun2021_Lancy Brook Brookline NH.mp3", "time": "06:00"
+    },
+    {
+      "date": "2021-04-13", "loc": "Brookline, Hillsborough County, New Hampshire", "birdId": 399,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call, life stage uncertain, sex uncertain",
+      "gen": "Cyanocitta", "rec": "Christopher McPherson", "ssp": "", "rmk": "Blue Jay: \u0022Rusty Gate\u0022 call",
+      "file": "https://xeno-canto.org/691163/download", "uploaded": "2021-12-12", "playback-used": "no", "id": "691163",
+      "sp": "cristata", "lat": "42.7134", "lng": "-71.6445", "bird-seen": "yes", "length": "0:15",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691163-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691163-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691163-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC691163-full.png"
+    }, "alt": "70", "en": "Blue Jay", "also": [
+      "Cardinalis cardinalis",
+      "Poecile atricapillus"
+    ], "url": "//xeno-canto.org/691163", "q": "A", "file-name": "XC691163-Blue Jay_13Apr2021_Brookline NH.mp3",
+      "time": "11:00"
+    },
+    {
+      "date": "2021-12-19", "loc": "Port Townsend, Jefferson County, Washington", "birdId": 399,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "alarm call", "gen": "Cyanocitta",
+      "rec": "Steve Hampton", "ssp": "",
+      "rmk": "continuing rarity; first record for Port Townsend; mobbing owl with Steller\u0027s Jays",
+      "file": "https://xeno-canto.org/696438/download", "uploaded": "2022-01-11", "playback-used": "no", "id": "696438",
+      "sp": "cristata", "lat": "48.1212", "lng": "-122.7722", "bird-seen": "yes", "length": "0:09",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696438-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696438-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696438-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696438-full.png"
+    }, "alt": "20", "en": "Blue Jay", "also": [
+      "Psaltriparus minimus"
+    ], "url": "//xeno-canto.org/696438", "q": "A", "file-name": "XC696438-20211219-173707 BLJA.mp3", "time": "10:00"
+    },
+    {
+      "date": "2022-01-09", "loc": "Port Townsend, Jefferson County, Washington", "birdId": 399,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Cyanocitta",
+      "rec": "Steve Hampton", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/696440/download",
+      "uploaded": "2022-01-11", "playback-used": "no", "id": "696440", "sp": "cristata", "lat": "48.1224",
+      "lng": "-122.771", "bird-seen": "yes", "length": "0:17", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696440-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696440-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696440-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/BUGKVZBWKF/ffts/XC696440-full.png"
+    }, "alt": "20", "en": "Blue Jay", "also": [
+      ""
+    ], "url": "//xeno-canto.org/696440", "q": "A", "file-name": "XC696440-20220109-102637 BLJA.mp3", "time": "10:30"
+    },
+    {
+      "date": "2021-10-11", "loc": "Vale of Cashmere - Prospect Park", "birdId": 399,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Cyanocitta",
+      "rec": "Cristian Pinto Fernandez", "ssp": "", "rmk": "ZOOM0001_Tr1-Blue Jay.WAV",
+      "file": "https://xeno-canto.org/696752/download", "uploaded": "2022-01-14", "playback-used": "no", "id": "696752",
+      "sp": "cristata", "lat": "40.6682", "lng": "-73.9681", "bird-seen": "yes", "length": "0:05",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/SEVIQQAKWM/ffts/XC696752-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/SEVIQQAKWM/ffts/XC696752-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/SEVIQQAKWM/ffts/XC696752-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/SEVIQQAKWM/ffts/XC696752-full.png"
+    }, "alt": "20", "en": "Blue Jay", "also": [
+      ""
+    ], "url": "//xeno-canto.org/696752", "q": "A", "file-name": "XC696752-ZOOM0001_Tr1-Blue Jay.mp3", "time": "08:00"
+    }
+  ]
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1502116789488-8f0c6d794de6"
+    ], "lengthMin": 45, "lengthMax": 60, "wingspanMin": 56, "wingspanMax": 61, "name": "Black-billed Magpie",
+    "id": 404, "sciName": "Pica hudsonia", "region": [
+    "NA"
+  ], "family": "Corvidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1643204762782-3d7cbf77aa13",
+      "https://images.unsplash.com/photo-1660283030748-928dc698ef2c",
+      "https://images.unsplash.com/photo-1653013391796-1d75de31ef7a"
+    ], "lengthMin": 40, "lengthMax": 53, "wingspanMin": 85, "wingspanMax": 100, "name": "American Crow",
+    "id": 407, "sciName": "Corvus brachyrhynchos", "region": [
+    "NA"
+  ], "family": "Corvidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1648654830319-a879ca6f7e13",
+      "https://images.unsplash.com/photo-1595703693966-c99d33853bed"
+    ], "lengthMin": 56, "lengthMax": 69, "wingspanMin": 116, "wingspanMax": 118, "name": "Common Raven",
+    "id": 410, "sciName": "Corvus corax", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Corvidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1623795284906-29b5a41cadf6"
+    ], "lengthMin": 10, "lengthMax": 12, "wingspanMin": 15, "wingspanMax": 20, "name": "Carolina Chickadee",
+    "id": 411, "sciName": "Poecile carolinensis", "region": [
+    "NA"
+  ], "family": "Paridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1641482323221-5419630e744f",
+      "https://images.unsplash.com/photo-1616878457386-e09e41105743",
+      "https://images.unsplash.com/photo-1616717416633-146cbafe8025"
+    ], "lengthMin": 12, "lengthMax": 15, "wingspanMin": 16, "wingspanMax": 21, "name": "Black-capped Chickadee",
+    "id": 412, "sciName": "Poecile atricapillus", "region": [
+    "NA"
+  ], "family": "Paridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1592072331222-fe1c69fa2818",
+      "https://images.unsplash.com/photo-1645662174339-787f99b442d9"
+    ], "lengthMin": 14, "lengthMax": 16, "wingspanMin": 20, "wingspanMax": 26, "name": "Tufted Titmouse",
+    "id": 419, "sciName": "Baeolophus bicolor", "region": [
+    "NA"
+  ], "family": "Paridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1631980851215-f200418ae825"
+    ], "lengthMin": 16, "lengthMax": 20, "wingspanMin": 30, "wingspanMax": 34, "name": "Horned Lark", "id": 422,
+    "sciName": "Eremophila alpestris", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Alaudidae", "order": "Passeriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/RoughWingedSwallow.jpg"
+    ], "lengthMin": 12, "lengthMax": 15, "wingspanMin": 27, "wingspanMax": 30,
+    "name": "Northern Rough-winged Swallow", "id": 423, "sciName": "Stelgidopteryx serripennis", "region": [
+    "NA"
+  ], "family": "Hirundinidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1534212758080-135b3affa932",
+      "https://images.unsplash.com/photo-1591810444770-8b8c57eea53b",
+      "https://images.unsplash.com/photo-1526296609207-80e77afde33d"
+    ], "lengthMin": 12, "lengthMax": 15, "wingspanMin": 30, "wingspanMax": 35, "name": "Tree Swallow",
+    "id": 425, "sciName": "Tachycineta bicolor", "region": [
+    "NA"
+  ], "family": "Hirundinidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1639675624162-04158684ce48",
+      "https://images.unsplash.com/photo-1655831064940-aacadf0b302a",
+      "https://images.unsplash.com/photo-1622841557904-a884c56ee6f6"
+    ], "lengthMin": 15, "lengthMax": 19, "wingspanMin": 29, "wingspanMax": 32, "name": "Barn Swallow",
+    "id": 428, "sciName": "Hirundo rustica", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Hirundinidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/RubyCrownedKinglet.jpg"
+    ], "lengthMin": 9, "lengthMax": 11, "wingspanMin": 16, "wingspanMax": 18, "name": "Ruby-crowned Kinglet",
+    "id": 434, "sciName": "Corthylio calendula", "region": [
+    "NA"
+  ], "family": "Regulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://storage.googleapis.com/nuthatch-images/GoldCrownedKinglet2.jpg",
+      "https://images.unsplash.com/photo-1617994736881-569bdffbc3ec",
+      "https://images.unsplash.com/photo-1617994736808-0e272a0c78b3"
+    ], "lengthMin": 8, "lengthMax": 11, "wingspanMin": 14, "wingspanMax": 18, "name": "Golden-crowned Kinglet",
+    "id": 435, "sciName": "Regulus satrapa", "region": [
+    "NA"
+  ], "family": "Regulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1659383222727-ab3cabf1c0a2",
+      "https://images.unsplash.com/photo-1646079029373-38fd58a2b0f1",
+      "https://images.unsplash.com/photo-1664563756104-b097a787504b"
+    ], "lengthMin": 13, "lengthMax": 14, "wingspanMin": 20, "wingspanMax": 27,
+    "name": "White-breasted Nuthatch", "id": 437, "sciName": "Sitta carolinensis", "region": [
+    "NA"
+  ], "family": "Sittidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617657523403-33dba7cc2714",
+      "https://images.unsplash.com/photo-1655875333927-3dd8310fa29a"
+    ], "lengthMin": 12, "lengthMax": 14, "wingspanMin": 17, "wingspanMax": 20, "name": "Brown Creeper",
+    "id": 440, "sciName": "Certhia americana", "region": [
+    "NA"
+  ], "family": "Certhiidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1606030689057-761500ddd8ee"
+    ], "lengthMin": 12, "lengthMax": 15, "wingspanMin": 22, "wingspanMax": 24, "name": "Rock Wren", "id": 444,
+    "sciName": "Salpinctes obsoletus", "region": [
+    "NA"
+  ], "family": "Troglodytidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1506453102932-ad380771c201",
+      "https://images.unsplash.com/photo-1523260856873-43417bbb2b16"
+    ], "lengthMin": 8, "lengthMax": 12, "wingspanMin": 12, "wingspanMax": 16, "name": "Winter Wren", "id": 448,
+    "sciName": "Troglodytes hiemalis", "region": [
+    "NA"
+  ], "family": "Troglodytidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1589620014389-d52fa7522add"
+    ], "lengthMin": 10, "lengthMax": 12, "wingspanMin": 12, "wingspanMax": 14, "name": "Sedge Wren", "id": 449,
+    "sciName": "Cistothorus stellaris", "region": [
+    "NA"
+  ], "family": "Troglodytidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1651771343146-6b6f044a950f",
+      "https://images.unsplash.com/photo-1642714171938-c0405319fe9c",
+      "https://images.unsplash.com/photo-1665451660186-ab721fc07979"
+    ], "lengthMin": 20, "lengthMax": 23, "wingspanMin": 31, "wingspanMax": 40, "name": "European Starling",
+    "id": 455, "sciName": "Sturnus vulgaris", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Sturnidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1664282893522-eae84467e17f",
+      "https://images.unsplash.com/photo-1664282877714-a0d130ada065",
+      "https://images.unsplash.com/photo-1629664016375-f48892877761"
+    ], "lengthMin": 21, "lengthMax": 24, "wingspanMin": 22, "wingspanMax": 30, "name": "Gray Catbird",
+    "id": 456, "sciName": "Dumetella carolinensis", "region": [
+    "NA"
+  ], "family": "Mimidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1590183281203-2bf178ff9e3d",
+      "https://images.unsplash.com/photo-1590183281864-ff331cc64c80",
+      "https://images.unsplash.com/photo-1591569174710-2548fbdea1ad"
+    ], "lengthMin": 23, "lengthMax": 30, "wingspanMin": 29, "wingspanMax": 32, "name": "Brown Thrasher",
+    "id": 458, "sciName": "Toxostoma rufum", "region": [
+    "NA"
+  ], "family": "Mimidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1541511182319-cc040c3680bb",
+      "https://images.unsplash.com/photo-1662405886682-f9e1c4621c1d",
+      "https://images.unsplash.com/photo-1662238967435-07ccb37c1b9e"
+    ], "lengthMin": 21, "lengthMax": 26, "wingspanMin": 31, "wingspanMax": 35, "name": "Northern Mockingbird",
+    "id": 465, "sciName": "Mimus polyglottos", "region": [
+    "NA"
+  ], "family": "Mimidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1628104505126-70e931be68c7",
+      "https://images.unsplash.com/photo-1624143771210-b4dd90772343",
+      "https://images.unsplash.com/photo-1628104506325-23231312b1c7"
+    ], "lengthMin": 16, "lengthMax": 21, "wingspanMin": 25, "wingspanMax": 32, "name": "Eastern Bluebird",
+    "id": 466, "sciName": "Sialia sialis", "region": [
+    "NA"
+  ], "family": "Turdidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1654216586449-be8acdee4a97"
+    ], "lengthMin": 16, "lengthMax": 19, "wingspanMin": 29, "wingspanMax": 34, "name": "Western Bluebird",
+    "id": 467, "sciName": "Sialia mexicana", "region": [
+    "NA"
+  ], "family": "Turdidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1603222397793-d3405a2f4def"
+    ], "lengthMin": 16, "lengthMax": 20, "wingspanMin": 28, "wingspanMax": 36, "name": "Mountain Bluebird",
+    "id": 468, "sciName": "Sialia currucoides", "region": [
+    "NA"
+  ], "family": "Turdidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1650651974934-617f5a730f35",
+      "https://images.unsplash.com/photo-1471644554778-b4275289ec0f"
+    ], "lengthMin": 16, "lengthMax": 17, "wingspanMin": 28, "wingspanMax": 30, "name": "Bicknell\u0027s Thrush",
+    "id": 473, "sciName": "Catharus bicknelli", "region": [
+    "NA"
+  ], "family": "Turdidae", "order": "Passeriformes", "status": "Red Watch List", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1650942933077-a7a09ce40317",
+      "https://images.unsplash.com/photo-1630711194841-d0c05831e547",
+      "https://images.unsplash.com/photo-1654562932672-5b73ca1547d8"
+    ], "lengthMin": 14, "lengthMax": 18, "wingspanMin": 25, "wingspanMax": 29, "name": "Hermit Thrush",
+    "id": 475, "sciName": "Catharus guttatus", "region": [
+    "NA"
+  ], "family": "Turdidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1608561220714-a7522ff43710",
+      "https://images.unsplash.com/photo-1628104505922-85a564f4eb31",
+      "https://images.unsplash.com/photo-1616720072185-8b281d6538ca"
+    ], "lengthMin": 20, "lengthMax": 28, "wingspanMin": 31, "wingspanMax": 40, "name": "American Robin",
+    "id": 477, "sciName": "Turdus migratorius", "region": [
+    "NA"
+  ], "family": "Turdidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1611273232428-3171528f2548",
+      "https://images.unsplash.com/photo-1611273232528-b7b75697a0a4",
+      "https://images.unsplash.com/photo-1611273232445-65dcab5856d6"
+    ], "lengthMin": 14, "lengthMax": 17, "wingspanMin": 22, "wingspanMax": 30, "name": "Cedar Waxwing",
+    "id": 480, "sciName": "Bombycilla cedrorum", "region": [
+    "NA"
+  ], "family": "Bombycillidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1605822442653-d9c5be8c74d1",
+      "https://images.unsplash.com/photo-1606396191353-a57806c7e44e"
+    ], "lengthMin": 15, "lengthMax": 17, "wingspanMin": 19, "wingspanMax": 25, "name": "House Sparrow",
+    "id": 483, "sciName": "Passer domesticus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Passeridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1586099036488-bff09aa3af0c",
+      "https://images.unsplash.com/photo-1611647223972-cbe6f9c857b4",
+      "https://images.unsplash.com/photo-1636759570719-f415d0aa5a54"
+    ], "lengthMin": 14, "lengthMax": 15, "wingspanMin": 20, "wingspanMax": 22, "name": "Eurasian Tree Sparrow",
+    "id": 484, "sciName": "Passer montanus", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Passeridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1646019577007-fa720d81b890",
+      "https://images.unsplash.com/photo-1646019491029-790ca0ff53de",
+      "https://images.unsplash.com/photo-1614819774494-75ac68e7e652"
+    ], "lengthMin": 16, "lengthMax": 18, "wingspanMin": 30, "wingspanMax": 36, "name": "Evening Grosbeak",
+    "id": 487, "sciName": "Coccothraustes vespertinus", "region": [
+    "NA"
+  ], "family": "Fringillidae", "order": "Passeriformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1590238750727-58264a93a894",
+      "https://images.unsplash.com/photo-1624123795205-5676ec2c9506",
+      "https://images.unsplash.com/photo-1624123794737-6d2582d2ec80"
+    ], "lengthMin": 13, "lengthMax": 14, "wingspanMin": 20, "wingspanMax": 25, "name": "House Finch", "id": 492,
+    "sciName": "Haemorhous mexicanus", "region": [
+    "NA"
+  ], "family": "Fringillidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1663204166873-3ecd09eb3d91"
+    ], "lengthMin": 12, "lengthMax": 16, "wingspanMin": 22, "wingspanMax": 26, "name": "Purple Finch",
+    "id": 493, "sciName": "Haemorhous purpureus", "region": [
+    "NA"
+  ], "family": "Fringillidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1558216686-189a3c3cf9b0",
+      "https://images.unsplash.com/photo-1617739680030-15aa0f685bfb",
+      "https://images.unsplash.com/photo-1557481945-3ffd67cd4baf"
+    ], "lengthMin": 12, "lengthMax": 14, "wingspanMin": 19, "wingspanMax": 22, "name": "Common Redpoll",
+    "id": 495, "sciName": "Acanthis flammea", "region": [
+    "NA",
+    "EUW"
+  ], "family": "Fringillidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1657858840125-2d5933d85d25",
+      "https://images.unsplash.com/photo-1624065935434-67f5404071cd"
+    ], "lengthMin": 11, "lengthMax": 14, "wingspanMin": 18, "wingspanMax": 22, "name": "Pine Siskin", "id": 500,
+    "sciName": "Spinus pinus", "region": [
+    "NA"
+  ], "family": "Fringillidae", "order": "Passeriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1653609956329-83854f208bb1",
+      "https://images.unsplash.com/photo-1653280934651-55ca0dc70088"
+    ], "lengthMin": 9, "lengthMax": 11, "wingspanMin": 15, "wingspanMax": 20, "name": "Lesser Goldfinch",
+    "id": 501, "sciName": "Spinus psaltria", "region": [
+    "NA"
+  ], "family": "Fringillidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1534265534853-9d33c0c00331",
+      "https://images.unsplash.com/photo-1662405979632-2b1ccdabdcc6"
+    ], "lengthMin": 11, "lengthMax": 13, "wingspanMin": 19, "wingspanMax": 22, "name": "American Goldfinch",
+    "id": 503, "sciName": "Spinus tristis", "region": [
+    "NA"
+  ], "family": "Fringillidae", "order": "Passeriformes", "status": "Low Concern", "recordings": [
+    {
+      "date": "2014-05-10", "loc": "Yard, Croton, New York", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "song", "gen": "Spinus", "rec": "Daniel Parker",
+      "ssp": "",
+      "rmk": "Originally thought this was a warbler of some kind. Identified as Goldfinch after more experience with local songs.",
+      "file": "https://xeno-canto.org/177835/download", "uploaded": "2014-05-10", "playback-used": "no", "id": "177835",
+      "sp": "tristis", "lat": "41.1987", "lng": "-73.8832", "bird-seen": "no", "length": "0:21", "cnt": "United States",
+      "sono": {
+        "small": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC177835-small.png",
+        "large": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC177835-large.png",
+        "med": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC177835-med.png",
+        "full": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC177835-full.png"
+      }, "alt": "?", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/177835", "q": "no score", "file-name": "XC177835-Mystery_4.mp3", "time": "07:45"
+    },
+    {
+      "date": "2020-03-22", "loc": "Heenan-Menfi Memorial Airport (near  Norfolk), Norfolk County, Massachusetts",
+      "birdId": 503, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Spinus",
+      "rec": "John Baur", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/537153/download",
+      "uploaded": "2020-03-22", "playback-used": "no", "id": "537153", "sp": "tristis", "lat": "42.1291",
+      "lng": "-71.3676", "bird-seen": "yes", "length": "0:25", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/WSTGWONJJJ/ffts/XC537153-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/WSTGWONJJJ/ffts/XC537153-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/WSTGWONJJJ/ffts/XC537153-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/WSTGWONJJJ/ffts/XC537153-full.png"
+    }, "alt": "40", "en": "American Goldfinch", "also": [
+      "Turdus migratorius",
+      "Junco hyemalis",
+      "Poecile atricapillus"
+    ], "url": "//xeno-canto.org/537153", "q": "no score", "file-name": "XC537153-200322_0077_AMGO1_wav.wav",
+      "time": "09:00"
+    },
+    {
+      "date": "2019-07-19", "loc": "2310 North Wygant Street, North Portland, Multnomah County, Oregon", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call, flight call", "gen": "Spinus",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/543346/download",
+      "uploaded": "2020-04-09", "playback-used": "no", "id": "543346", "sp": "tristis", "lat": "45.5575",
+      "lng": "-122.6912", "bird-seen": "yes", "length": "0:07", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543346-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543346-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543346-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543346-full.png"
+    }, "alt": "60", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/543346", "q": "no score",
+      "file-name": "XC543346-AMGO_2019-07-19_North_Portland_OR_1422.mp3", "time": "14:22"
+    },
+    {
+      "date": "2019-07-19", "loc": "2310 North Wygant Street, North Portland, Multnomah County, Oregon", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Spinus", "rec": "Thomas Magarian",
+      "ssp": "", "rmk": "", "file": "https://xeno-canto.org/543348/download", "uploaded": "2020-04-09",
+      "playback-used": "no", "id": "543348", "sp": "tristis", "lat": "45.5575", "lng": "-122.6912", "bird-seen": "yes",
+      "length": "0:15", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543348-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543348-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543348-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543348-full.png"
+    }, "alt": "60", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/543348", "q": "no score",
+      "file-name": "XC543348-AMGO_2019-07-19_North_Portland_OR_1423.mp3", "time": "14:23"
+    },
+    {
+      "date": "2019-08-31", "loc": "Smith Bybee Wetlands, North Portland, Multnomah County, Oregon", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "flight call", "gen": "Spinus",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/543350/download",
+      "uploaded": "2020-04-09", "playback-used": "no", "id": "543350", "sp": "tristis", "lat": "45.6123",
+      "lng": "-122.7352", "bird-seen": "yes", "length": "0:06", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543350-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543350-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543350-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543350-full.png"
+    }, "alt": "0", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/543350", "q": "no score",
+      "file-name": "XC543350-AMGO_2019-08-31_Smith_Bybee_Wetlands_North_Portland_OR_1300.mp3", "time": "13:00"
+    },
+    {
+      "date": "2019-08-31", "loc": "Smith Bybee Wetlands, North Portland, Multnomah County, Oregon", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "flight call", "gen": "Spinus",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/543351/download",
+      "uploaded": "2020-04-09", "playback-used": "no", "id": "543351", "sp": "tristis", "lat": "45.6123",
+      "lng": "-122.7352", "bird-seen": "yes", "length": "0:23", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543351-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543351-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543351-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC543351-full.png"
+    }, "alt": "0", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/543351", "q": "no score",
+      "file-name": "XC543351-AMGO_2019-08-31_Smith_Bybee_Wetlands_North_Portland_OR_1530.mp3", "time": "15:30"
+    },
+    {
+      "date": "2020-08-06", "loc": "Quilcene, Jefferson County, Washington", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, call, sex uncertain", "gen": "Spinus",
+      "rec": "James Link", "ssp": "",
+      "rmk": "habitat: wetland valley dominated by cattail and thistle, willow and young pine trees scattered throughout. In a grouping of willows there was a large flock of goldfinches. There were a few calling back and forth that the mic was pointed at that stood out from the crown but unable to say with confidence who exactly I was capturing on tape which is why I cant say which sex this was.",
+      "file": "https://xeno-canto.org/582571/download", "uploaded": "2020-08-15", "playback-used": "no", "id": "582571",
+      "sp": "tristis", "lat": "47.8856", "lng": "-122.8203", "bird-seen": "yes", "length": "0:20",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/FGJKZJMEKX/ffts/XC582571-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/FGJKZJMEKX/ffts/XC582571-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/FGJKZJMEKX/ffts/XC582571-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/FGJKZJMEKX/ffts/XC582571-full.png"
+    }, "alt": "20", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/582571", "q": "A", "file-name": "XC582571-AMGO_8.6.20_NWWSvalley.mp3", "time": "18:29"
+    },
+    {
+      "date": "2020-11-18", "loc": "Hendrix Habitat - Fairview, Williamson County, Tennessee", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "uncertain", "gen": "Spinus",
+      "rec": "Brian Hendrix", "ssp": "",
+      "rmk": "Recorded unattended using Song Meter Mini from Wildlife Acoustics\r\nhttps://www.wildlifeacoustics.com/products/song-meter-mini\r\n\r\nAudio processed with Audacity 2.4.2\r\nhttps://www.audacityteam.org\r\n\r\n\r\nBrian Hendrix \u2014 Tennessee Naturalist\r\nveteran  |  Mac guy  |  birder  |  coffee snob\r\n\r\niNaturalist \u2014 https://www.inaturalist.org/people/740683\r\n\r\neBird \u2014 https://ebird.org/profile/NDA5Nzgy/US-TN-187",
+      "file": "https://xeno-canto.org/603828/download", "uploaded": "2020-11-18", "playback-used": "no", "id": "603828",
+      "sp": "tristis", "lat": "35.987", "lng": "-87.145", "bird-seen": "no", "length": "0:07", "cnt": "United States",
+      "sono": {
+        "small": "//xeno-canto.org/sounds/uploaded/WFZJIOWFQY/ffts/XC603828-small.png",
+        "large": "//xeno-canto.org/sounds/uploaded/WFZJIOWFQY/ffts/XC603828-large.png",
+        "med": "//xeno-canto.org/sounds/uploaded/WFZJIOWFQY/ffts/XC603828-med.png",
+        "full": "//xeno-canto.org/sounds/uploaded/WFZJIOWFQY/ffts/XC603828-full.png"
+      }, "alt": "260", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/603828", "q": "A", "file-name": "XC603828-20201118_074822_smm_AMGO.mp3", "time": "08:00"
+    },
+    {
+      "date": "2020-05-05", "loc": "Old St Vrain Rd, Boulder Cty, CO", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "male, song", "gen": "Spinus", "rec": "Sue Riffe",
+      "ssp": "", "rmk": "natural vocalization of male in a Cottonwood Tree",
+      "file": "https://xeno-canto.org/612292/download", "uploaded": "2021-01-02", "playback-used": "no", "id": "612292",
+      "sp": "tristis", "lat": "40.209", "lng": "-105.2858", "bird-seen": "yes", "length": "0:12",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/PVQOLRXXWL/ffts/XC612292-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/PVQOLRXXWL/ffts/XC612292-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/PVQOLRXXWL/ffts/XC612292-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/PVQOLRXXWL/ffts/XC612292-full.png"
+    }, "alt": "1700", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/612292", "q": "A",
+      "file-name": "XC612292-American Goldfinch on Old St Vrain Rd CO on 5.3.20 at 11.14 for .12.mp3", "time": "11:14"
+    },
+    {
+      "date": "2022-04-28", "loc": "Ernest Oros Nature Preserve, Avenel, New Jersey", "birdId": 503,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/4.0/", "type": "song", "gen": "Spinus",
+      "rec": "William Whitehead", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/720038/download",
+      "uploaded": "2022-04-28", "playback-used": "no", "id": "720038", "sp": "tristis", "lat": "40.5874",
+      "lng": "-74.2621", "bird-seen": "yes", "length": "0:09", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC720038-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC720038-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC720038-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/MGVGHKBMIZ/ffts/XC720038-full.png"
+    }, "alt": "0", "en": "American Goldfinch", "also": [
+      ""
+    ], "url": "//xeno-canto.org/720038", "q": "A", "file-name": "XC720038-AmericanGoldfinch3.mp3", "time": "07:00"
+    }
+  ]
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1591299979617-95101759f961"
+    ], "lengthMin": 15, "lengthMax": 19, "wingspanMin": 26, "wingspanMax": 29, "name": "Fox Sparrow",
+    "id": 524, "sciName": "Passerella iliaca", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1546292780-97eb0d1974e1",
+      "https://images.unsplash.com/photo-1643131322512-a425934e6fd7"
+    ], "lengthMin": 14, "lengthMax": 16, "wingspanMin": 18, "wingspanMax": 25, "name": "Dark-eyed Junco",
+    "id": 525, "sciName": "Junco hyemalis", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1561320971-98cff32125fd"
+    ], "lengthMin": 15, "lengthMax": 16, "wingspanMin": 21, "wingspanMax": 24, "name": "White-crowned Sparrow",
+    "id": 527, "sciName": "Zonotrichia leucophrys", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1665403797215-90ab6a371330",
+      "https://images.unsplash.com/photo-1644714761625-2baf1ec03a0b",
+      "https://images.unsplash.com/photo-1628104506818-54304bbdfdbd"
+    ], "lengthMin": 16, "lengthMax": 18, "wingspanMin": 20, "wingspanMax": 23, "name": "White-throated Sparrow",
+    "id": 530, "sciName": "Zonotrichia albicollis", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1591636379742-4da215b7b715",
+      "https://images.unsplash.com/photo-1579747473710-688325b5d1fd",
+      "https://images.unsplash.com/photo-1591490548516-b041b970cf85"
+    ], "lengthMin": 11, "lengthMax": 15, "wingspanMin": 20, "wingspanMax": 22, "name": "Savannah Sparrow",
+    "id": 538, "sciName": "Passerculus sandwichensis", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1593559120503-8c0b3775cfd2",
+      "https://images.unsplash.com/photo-1620589081340-19351ea248a6",
+      "https://images.unsplash.com/photo-1641909339704-fdff10e3ca24"
+    ], "lengthMin": 12, "lengthMax": 17, "wingspanMin": 18, "wingspanMax": 24, "name": "Song Sparrow",
+    "id": 541, "sciName": "Melospiza melodia", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": [
+    {
+      "date": "2019-04-06", "loc": "2310 North Wygant Street, North Portland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, sex uncertain, song", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/540243/download",
+      "uploaded": "2020-03-31", "playback-used": "no", "id": "540243", "sp": "melodia", "lat": "45.5575",
+      "lng": "-122.6912", "bird-seen": "yes", "length": "0:06", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540243-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540243-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540243-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540243-full.png"
+    }, "alt": "60", "en": "Song Sparrow", "also": [
+      ""
+    ], "url": "//xeno-canto.org/540243", "q": "no score",
+      "file-name": "XC540243-SOSP_2019-04-06_North_Portland_OR_1007.mp3", "time": "10:07"
+    },
+    {
+      "date": "2019-04-06", "loc": "2310 North Wygant Street, North Portland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, sex uncertain, song", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/540245/download",
+      "uploaded": "2020-03-31", "playback-used": "no", "id": "540245", "sp": "melodia", "lat": "45.5575",
+      "lng": "-122.6912", "bird-seen": "yes", "length": "0:06", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540245-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540245-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540245-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540245-full.png"
+    }, "alt": "60", "en": "Song Sparrow", "also": [
+      ""
+    ], "url": "//xeno-canto.org/540245", "q": "no score",
+      "file-name": "XC540245-SOSP_2019-04-06_North_Portland_OR_1008.mp3", "time": "10:08"
+    },
+    {
+      "date": "2019-04-13", "loc": "2310 North Wygant Street, North Portland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, sex uncertain, song", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/540251/download",
+      "uploaded": "2020-04-01", "playback-used": "no", "id": "540251", "sp": "melodia", "lat": "45.5575",
+      "lng": "-122.6912", "bird-seen": "yes", "length": "0:06", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540251-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540251-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540251-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540251-full.png"
+    }, "alt": "60", "en": "Song Sparrow", "also": [
+      "Turdus migratorius"
+    ], "url": "//xeno-canto.org/540251", "q": "no score",
+      "file-name": "XC540251-SOSP_AMRO_2019-04-13_North_Portland_OR_0850.mp3", "time": "08:50"
+    },
+    {
+      "date": "2019-01-21", "loc": "Willamette Bluff, North Portland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, sex uncertain, song", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/540252/download",
+      "uploaded": "2020-04-01", "playback-used": "no", "id": "540252", "sp": "melodia", "lat": "45.5649",
+      "lng": "-122.6984", "bird-seen": "yes", "length": "0:17", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540252-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540252-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540252-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540252-full.png"
+    }, "alt": "50", "en": "Song Sparrow", "also": [
+      "Aphelocoma californica"
+    ], "url": "//xeno-canto.org/540252", "q": "no score",
+      "file-name": "XC540252-SOSP_CASJ_2019-01-21_Willamette_Bluff_North_Portland_OR_1054.mp3", "time": "10:54"
+    },
+    {
+      "date": "2019-01-28", "loc": "Willamette Bluff, North Portland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, call, sex uncertain", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/540255/download",
+      "uploaded": "2020-04-01", "playback-used": "no", "id": "540255", "sp": "melodia", "lat": "45.5649",
+      "lng": "-122.6984", "bird-seen": "yes", "length": "0:11", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540255-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540255-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540255-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540255-full.png"
+    }, "alt": "50", "en": "Song Sparrow", "also": [
+      "Aphelocoma californica"
+    ], "url": "//xeno-canto.org/540255", "q": "no score",
+      "file-name": "XC540255-SOSP_CASJ_2019-01-28_Willamette_Bluff_North_Portland_OR_1218.mp3", "time": "12:18"
+    },
+    {
+      "date": "2019-04-06", "loc": "2310 North Wygant Street, North Portland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, sex uncertain, song", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/540259/download",
+      "uploaded": "2020-04-01", "playback-used": "no", "id": "540259", "sp": "melodia", "lat": "45.5575",
+      "lng": "-122.6912", "bird-seen": "yes", "length": "0:28", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540259-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540259-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540259-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC540259-full.png"
+    }, "alt": "60", "en": "Song Sparrow", "also": [
+      "Spinus psaltria",
+      "Dryobates pubescens",
+      "Colaptes auratus"
+    ], "url": "//xeno-canto.org/540259", "q": "no score",
+      "file-name": "XC540259-SOSP_LEGO_2019-04-06_North_Portland_OR_1015.mp3", "time": "10:15"
+    },
+    {
+      "date": "2020-04-06", "loc": "Yuma East Wetlands, Yuma, Arizona", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "song", "gen": "Melospiza",
+      "rec": "Jarrod Swackhamer", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/542596/download",
+      "uploaded": "2020-04-07", "playback-used": "no", "id": "542596", "sp": "melodia", "lat": "32.7257",
+      "lng": "-114.6074", "bird-seen": "no", "length": "0:26", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/WUKEUEONAI/ffts/XC542596-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/WUKEUEONAI/ffts/XC542596-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/WUKEUEONAI/ffts/XC542596-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/WUKEUEONAI/ffts/XC542596-full.png"
+    }, "alt": "40", "en": "Song Sparrow", "also": [
+      ""
+    ], "url": "//xeno-canto.org/542596", "q": "no score", "file-name": "XC542596-sosp_song_040620_yumaeast.mp3",
+      "time": "06:30"
+    },
+    {
+      "date": "2019-06-02", "loc": "Vanport Wetlands, North Porthland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, male, song", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/545906/download",
+      "uploaded": "2020-04-15", "playback-used": "no", "id": "545906", "sp": "melodia", "lat": "45.5994",
+      "lng": "-122.6875", "bird-seen": "yes", "length": "0:08", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545906-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545906-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545906-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545906-full.png"
+    }, "alt": "0", "en": "Song Sparrow", "also": [
+      "Agelaius phoeniceus"
+    ], "url": "//xeno-canto.org/545906", "q": "no score",
+      "file-name": "XC545906-SOSP_2019-06-02_Vanport_Wetlands_North_Portland_OR_0956.mp3", "time": "09:56"
+    },
+    {
+      "date": "2020-01-30", "loc": "Willamette Bluff, North Portland, Multnomah County, Oregon", "birdId": 541,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, male, song", "gen": "Melospiza",
+      "rec": "Thomas Magarian", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/545907/download",
+      "uploaded": "2020-04-15", "playback-used": "no", "id": "545907", "sp": "melodia", "lat": "45.5649",
+      "lng": "-122.6984", "bird-seen": "yes", "length": "0:11", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545907-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545907-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545907-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/GVVNEJJEGA/ffts/XC545907-full.png"
+    }, "alt": "50", "en": "Song Sparrow", "also": [
+      ""
+    ], "url": "//xeno-canto.org/545907", "q": "no score",
+      "file-name": "XC545907-SOSP_2020-01-30_Willamette_Bluff_OR_1033.mp3", "time": "10:33"
+    },
+    {
+      "date": "2020-04-22", "loc": "San Francisco Peninsula (near  Pacifica), San Mateo County, California",
+      "birdId": 541, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "male, song", "gen": "Melospiza",
+      "rec": "Joseph Morlan", "ssp": "gouldii", "rmk": "Extracted from video",
+      "file": "https://xeno-canto.org/549199/download", "uploaded": "2020-04-22", "playback-used": "no", "id": "549199",
+      "sp": "melodia", "lat": "37.5785", "lng": "-122.4742", "bird-seen": "yes", "length": "0:10",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/LQFWLNTEXL/ffts/XC549199-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/LQFWLNTEXL/ffts/XC549199-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/LQFWLNTEXL/ffts/XC549199-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/LQFWLNTEXL/ffts/XC549199-full.png"
+    }, "alt": "70", "en": "Song Sparrow", "also": [
+      ""
+    ], "url": "//xeno-canto.org/549199", "q": "no score", "file-name": "XC549199-SongSparrowMVI_2808.mp3",
+      "time": "09:30"
+    }
+  ]
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1630186814872-91b8636cc80f",
+      "https://images.unsplash.com/photo-1652101420272-bfd2311a4076"
+    ], "lengthMin": 13, "lengthMax": 15, "wingspanMin": 19, "wingspanMax": 22, "name": "Lincoln\u0027s Sparrow",
+    "id": 542, "sciName": "Melospiza lincolnii", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1658227577625-3b39d8100d16",
+      "https://images.unsplash.com/photo-1664741759209-d93b4ff92da0"
+    ], "lengthMin": 12, "lengthMax": 15, "wingspanMin": 18, "wingspanMax": 19, "name": "Swamp Sparrow",
+    "id": 543, "sciName": "Melospiza georgiana", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1650929293588-f2d91c84bdd0",
+      "https://images.unsplash.com/photo-1647187414729-9f0c78cf2a2d",
+      "https://images.unsplash.com/photo-1617739680032-8ab04113d6dc"
+    ], "lengthMin": 17, "lengthMax": 20, "wingspanMin": 20, "wingspanMax": 28, "name": "Eastern Towhee",
+    "id": 550, "sciName": "Pipilo erythrophthalmus", "region": [
+    "NA"
+  ], "family": "Passerellidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1632700601323-4f6892433c52"
+    ], "lengthMin": 21, "lengthMax": 26, "wingspanMin": 42, "wingspanMax": 44,
+    "name": "Yellow-headed Blackbird", "id": 552, "sciName": "Xanthocephalus xanthocephalus", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1655044511902-cbe627c8a3a8"
+    ], "lengthMin": 19, "lengthMax": 26, "wingspanMin": 35, "wingspanMax": 40, "name": "Eastern Meadowlark",
+    "id": 555, "sciName": "Sturnella magna", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1598381581589-d464b4db0e70",
+      "https://images.unsplash.com/photo-1598381581901-7cecced0a1fa"
+    ], "lengthMin": 18, "lengthMax": 20, "wingspanMin": 23, "wingspanMax": 28, "name": "Hooded Oriole",
+    "id": 557, "sciName": "Icterus cucullatus", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1645563146739-b4ee076c5dcc",
+      "https://images.unsplash.com/photo-1618083832398-6b0be43becac",
+      "https://images.unsplash.com/photo-1663099926889-5f385398a150"
+    ], "lengthMin": 17, "lengthMax": 19, "wingspanMin": 23, "wingspanMax": 30, "name": "Baltimore Oriole",
+    "id": 562, "sciName": "Icterus galbula", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Low Concern", "recordings": [
+    {
+      "date": "2005-05-16", "loc": "Quincy Bluff NA, WI", "birdId": 562,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/2.5/", "type": "song", "gen": "Icterus", "rec": "Robin Carter",
+      "ssp": "", "rmk": "song", "file": "https://xeno-canto.org/1362/download", "uploaded": "2008-11-20",
+      "playback-used": "unknown", "id": "1362", "sp": "galbula", "lat": null, "lng": null, "bird-seen": "unknown",
+      "length": "0:15", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/LNBKSKKLXO/ffts/XC1362-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/LNBKSKKLXO/ffts/XC1362-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/LNBKSKKLXO/ffts/XC1362-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/LNBKSKKLXO/ffts/XC1362-full.png"
+    }, "alt": "200", "en": "Baltimore Oriole", "also": [
+      ""
+    ], "url": "//xeno-canto.org/1362", "q": "A", "file-name": "BaltimoreOriole20050516R025.mp3", "time": "?"
+    },
+    {
+      "date": "1998-04-10", "loc": "Sequoyah NWR, OK", "birdId": 562,
+      "lic": "//creativecommons.org/licenses/by-nc-nd/4.0/", "type": "song", "gen": "Icterus", "rec": "Peter Boesman",
+      "ssp": "", "rmk": "ID certainty 100%. (Archiv. tape 72 side B track 6 seq. A)",
+      "file": "https://xeno-canto.org/224592/download", "uploaded": "2015-03-22", "playback-used": "unknown",
+      "id": "224592", "sp": "galbula", "lat": "35.4426", "lng": "-94.9857", "bird-seen": "unknown", "length": "0:26",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/OOECIWCSWV/ffts/XC224592-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/OOECIWCSWV/ffts/XC224592-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/OOECIWCSWV/ffts/XC224592-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/OOECIWCSWV/ffts/XC224592-full.png"
+    }, "alt": "", "en": "Baltimore Oriole", "also": [
+      ""
+    ], "url": "//xeno-canto.org/224592", "q": "A", "file-name": "XC224592-Northern Oriole A 16792.mp3", "time": "07:00"
+    },
+    {
+      "date": "2016-05-09", "loc": "Yard, Croton, New York", "birdId": 562,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call, song", "gen": "Icterus",
+      "rec": "Daniel Parker", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/315767/download",
+      "uploaded": "2016-05-10", "playback-used": "no", "id": "315767", "sp": "galbula", "lat": null, "lng": null,
+      "bird-seen": "no", "length": "0:10", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC315767-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC315767-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC315767-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/AMMGWAIZWI/ffts/XC315767-full.png"
+    }, "alt": "?", "en": "Baltimore Oriole", "also": [
+      "Turdus migratorius"
+    ], "url": "//xeno-canto.org/315767", "q": "no score", "file-name": "XC315767-Mystery_68.mp3", "time": "06:45"
+    },
+    {
+      "date": "2016-05-26", "loc": "East Norriton Township (near  Norristown), Montgomery County, Pennsylvania",
+      "birdId": 562, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Icterus",
+      "rec": "Brian Henderson", "ssp": "", "rmk": "Call reminiscent of a Tufted Titmouse.",
+      "file": "https://xeno-canto.org/318680/download", "uploaded": "2016-05-27", "playback-used": "no", "id": "318680",
+      "sp": "galbula", "lat": "40.1385", "lng": "-75.3281", "bird-seen": "yes", "length": "0:10",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/XOTIPGMSLK/ffts/XC318680-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/XOTIPGMSLK/ffts/XC318680-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/XOTIPGMSLK/ffts/XC318680-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/XOTIPGMSLK/ffts/XC318680-full.png"
+    }, "alt": "50", "en": "Baltimore Oriole", "also": [
+      "Cardinalis cardinalis",
+      "Hylocichla mustelina",
+      "Dumetella carolinensis",
+      "Contopus virens"
+    ], "url": "//xeno-canto.org/318680", "q": "A", "file-name": "XC318680-MVI_2227_BAOR_201605260846_mod.mp3",
+      "time": "08:50"
+    },
+    {
+      "date": "2016-06-22", "loc": "Draper Twin Lake Park, Oakland County, Michigan", "birdId": 562,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "call", "gen": "Icterus", "rec": "Antonio Xeira",
+      "ssp": "",
+      "rmk": "Editing: High-pass filter, cutoff frequency 1kHz, some amplification.\r\n\r\nEquipment: Olympus WS-822 d",
+      "file": "https://xeno-canto.org/329040/download", "uploaded": "2016-07-28", "playback-used": "no", "id": "329040",
+      "sp": "galbula", "lat": "42.7646", "lng": "-83.1162", "bird-seen": "yes", "length": "0:18",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC329040-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC329040-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC329040-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC329040-full.png"
+    }, "alt": "280", "en": "Baltimore Oriole", "also": [
+      ""
+    ], "url": "//xeno-canto.org/329040", "q": "A", "file-name": "XC329040-160622_0758 0730 Twin Lakes BAOR.mp3",
+      "time": "08:00"
+    },
+    {
+      "date": "2016-05-21", "loc": "Tawas Point, Michigan", "birdId": 562,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "song", "gen": "Icterus", "rec": "Antonio Xeira",
+      "ssp": "",
+      "rmk": "Editing: High-pass filter, cutoff frequency 1kHz, some amplification.\r\n\r\nEquipment: Olympus WS-822 d",
+      "file": "https://xeno-canto.org/391156/download", "uploaded": "2017-10-29", "playback-used": "no", "id": "391156",
+      "sp": "galbula", "lat": "44.2486", "lng": "-83.4583", "bird-seen": "yes", "length": "0:18",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC391156-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC391156-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC391156-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/PJVICFDZGZ/ffts/XC391156-full.png"
+    }, "alt": "180", "en": "Baltimore Oriole", "also": [
+      ""
+    ], "url": "//xeno-canto.org/391156", "q": "A", "file-name": "XC391156-160521_0683 0530 Tawas point_Ori 2.mp3",
+      "time": "05:30"
+    },
+    {
+      "date": "2015-05-10", "loc": "Watts Flats WMA, New York (near  Ashville), Chautauqua County, New York",
+      "birdId": 562, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "song", "gen": "Icterus",
+      "rec": "Jim Berry", "ssp": "", "rmk": "", "file": "https://xeno-canto.org/407924/download",
+      "uploaded": "2018-03-29", "playback-used": "no", "id": "407924", "sp": "galbula", "lat": "42.033",
+      "lng": "-79.4222", "bird-seen": "no", "length": "0:26", "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/BMFJZMNPEG/ffts/XC407924-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/BMFJZMNPEG/ffts/XC407924-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/BMFJZMNPEG/ffts/XC407924-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/BMFJZMNPEG/ffts/XC407924-full.png"
+    }, "alt": "440", "en": "Baltimore Oriole", "also": [
+      ""
+    ], "url": "//xeno-canto.org/407924", "q": "A", "file-name": "XC407924-05162016 WFWMA Baltimore Oriole.mp3",
+      "time": "07:00"
+    },
+    {
+      "date": "2020-05-17", "loc": "Lancy Brook Wetlands Brookline / Mason, Hillsborough County, New Hampshire",
+      "birdId": 562, "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, male, song",
+      "gen": "Icterus", "rec": "Christopher McPherson", "ssp": "", "rmk": "",
+      "file": "https://xeno-canto.org/600290/download", "uploaded": "2020-11-05", "playback-used": "no", "id": "600290",
+      "sp": "galbula", "lat": "42.7463", "lng": "-71.7074", "bird-seen": "yes", "length": "0:21",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC600290-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC600290-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC600290-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/HNIFQCMOLA/ffts/XC600290-full.png"
+    }, "alt": "110", "en": "Baltimore Oriole", "also": [
+      "Geothlypis trichas",
+      "Setophaga discolor"
+    ], "url": "//xeno-canto.org/600290", "q": "A",
+      "file-name": "XC600290-Baltimore Oriole_17May2020_Lancy Brook Brookline NH.mp3", "time": "12:30"
+    },
+    {
+      "date": "2021-04-28", "loc": "Dunham Recreation Complex (near  Cincinnati), Hamilton County, Ohio", "birdId": 562,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, male, song", "gen": "Icterus",
+      "rec": "David A. Brinkman", "ssp": "",
+      "rmk": "Prominent Carolina Wren and Common Yellowthroat in background. Bird singing along wooded edge adjace",
+      "file": "https://xeno-canto.org/646455/download", "uploaded": "2021-05-08", "playback-used": "no", "id": "646455",
+      "sp": "galbula", "lat": "39.1237", "lng": "-84.5904", "bird-seen": "no", "length": "0:27", "cnt": "United States",
+      "sono": {
+        "small": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC646455-small.png",
+        "large": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC646455-large.png",
+        "med": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC646455-med.png",
+        "full": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC646455-full.png"
+      }, "alt": "260", "en": "Baltimore Oriole", "also": [
+      "Tyrannus tyrannus",
+      "Thryothorus ludovicianus",
+      "Zenaida macroura",
+      "Agelaius phoeniceus",
+      "Turdus migratorius",
+      "Geothlypis trichas",
+      "Cardinalis cardinalis",
+      "Chaetura pelagica",
+      "Polioptila caerulea"
+    ], "url": "//xeno-canto.org/646455", "q": "A", "file-name": "XC646455-BAOR DUN carw coye no nf 4-28-21.mp3",
+      "time": "15:32"
+    },
+    {
+      "date": "2022-05-11", "loc": "Whitewater Township (near  Harrison), Hamilton County, Ohio", "birdId": 562,
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/", "type": "adult, male, song", "gen": "Icterus",
+      "rec": "David A. Brinkman", "ssp": "",
+      "rmk": "Bird singing from about 10 ft. up in a sycamore bordering a small lake, surrounded by old fields wit",
+      "file": "https://xeno-canto.org/726803/download", "uploaded": "2022-05-25", "playback-used": "no", "id": "726803",
+      "sp": "galbula", "lat": "39.2095", "lng": "-84.7821", "bird-seen": "yes", "length": "0:06",
+      "cnt": "United States", "sono": {
+      "small": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC726803-small.png",
+      "large": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC726803-large.png",
+      "med": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC726803-med.png",
+      "full": "//xeno-canto.org/sounds/uploaded/IUWJMMZJNL/ffts/XC726803-full.png"
+    }, "alt": "160", "en": "Baltimore Oriole", "also": [
+      "Vireo gilvus",
+      "Branta canadensis"
+    ], "url": "//xeno-canto.org/726803", "q": "A", "file-name": "XC726803-BAOR Kilby Rd 5-11-22.mp3", "time": "11:22"
+    }
+  ]
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1650857691980-b4e5fa452a1c",
+      "https://images.unsplash.com/photo-1621114122511-5e9bdedec286"
+    ], "lengthMin": 17, "lengthMax": 23, "wingspanMin": 31, "wingspanMax": 40, "name": "Red-winged Blackbird",
+    "id": 564, "sciName": "Agelaius phoeniceus", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1618084669654-c21c9d9363f2",
+      "https://images.unsplash.com/photo-1647288966598-9e89b5f53cd6"
+    ], "lengthMin": 28, "lengthMax": 34, "wingspanMin": 36, "wingspanMax": 46, "name": "Common Grackle",
+    "id": 571, "sciName": "Quiscalus quiscula", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1624324397831-f9d686f9bca6"
+    ], "lengthMin": 26, "lengthMax": 37, "wingspanMin": 39, "wingspanMax": 50, "name": "Boat-tailed Grackle",
+    "id": 572, "sciName": "Quiscalus major", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1597777208994-b0404edd5ea2",
+      "https://images.unsplash.com/photo-1597181885850-156f47805dbd"
+    ], "lengthMin": 38, "lengthMax": 46, "wingspanMin": 48, "wingspanMax": 58, "name": "Great-tailed Grackle",
+    "id": 573, "sciName": "Quiscalus mexicanus", "region": [
+    "NA"
+  ], "family": "Icteridae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1656821187758-aa6265bf519f"
+    ], "lengthMin": 11, "lengthMax": 14, "wingspanMin": 19, "wingspanMax": 26, "name": "Ovenbird", "id": 574,
+    "sciName": "Seiurus aurocapilla", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1652101388693-0cd3d12c9db3",
+      "https://images.unsplash.com/photo-1652101458347-299bc65eea83",
+      "https://images.unsplash.com/photo-1618082335440-daad88b4f8c7"
+    ], "lengthMin": 11, "lengthMax": 13, "wingspanMin": 18, "wingspanMax": 22,
+    "name": "Black-and-white Warbler", "id": 580, "sciName": "Mniotilta varia", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1525275963076-7a70249a9925",
+      "https://images.unsplash.com/photo-1530443211684-e4f16a907621"
+    ], "lengthMin": 13, "lengthMax": 14, "wingspanMin": 22, "wingspanMax": 24,
+    "name": "Swainson\u0027s Warbler", "id": 582, "sciName": "Limnothlypis swainsonii", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1590180977267-bc441b242d40"
+    ], "lengthMin": 10, "lengthMax": 13, "wingspanMin": 19, "wingspanMax": 20, "name": "Tennessee Warbler",
+    "id": 583, "sciName": "Leiothlypis peregrina", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1558629879-2aca2ea98619"
+    ], "lengthMin": 11, "lengthMax": 13, "wingspanMin": 17, "wingspanMax": 20, "name": "Nashville Warbler",
+    "id": 586, "sciName": "Leiothlypis ruficapilla", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1564759719065-df173fe15d98",
+      "https://images.unsplash.com/photo-1618082335435-32b746dabe48"
+    ], "lengthMin": 11, "lengthMax": 13, "wingspanMin": 15, "wingspanMax": 19, "name": "Common Yellowthroat",
+    "id": 592, "sciName": "Geothlypis trichas", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1620589919696-e16bc33ac8a1",
+      "https://images.unsplash.com/photo-1653006436308-f5f90fe949c5"
+    ], "lengthMin": 11, "lengthMax": 13, "wingspanMin": 16, "wingspanMax": 19, "name": "American Redstart",
+    "id": 594, "sciName": "Setophaga ruticilla", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1618083832230-2af41403e1bd",
+      "https://images.unsplash.com/photo-1618083832245-4f28757bd0d9"
+    ], "lengthMin": 12, "lengthMax": 13, "wingspanMin": 20, "wingspanMax": 22, "name": "Cape May Warbler",
+    "id": 596, "sciName": "Setophaga tigrina", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617995765952-d8ef11991d29",
+      "https://images.unsplash.com/photo-1617995765946-e8153f95dc04",
+      "https://images.unsplash.com/photo-1626363140802-8a8e28223510"
+    ], "lengthMin": 11, "lengthMax": 12, "wingspanMin": 16, "wingspanMax": 18, "name": "Northern Parula",
+    "id": 598, "sciName": "Setophaga americana", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1618083632951-ff61cd6daaf3",
+      "https://images.unsplash.com/photo-1618082335434-58c2de902519",
+      "https://images.unsplash.com/photo-1652101724757-2a9c45b969e2"
+    ], "lengthMin": 11, "lengthMax": 13, "wingspanMin": 16, "wingspanMax": 20, "name": "Magnolia Warbler",
+    "id": 599, "sciName": "Setophaga magnolia", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1527863207983-b38888c0d9d4",
+      "https://images.unsplash.com/photo-1517518002496-22c3c6cb1361",
+      "https://images.unsplash.com/photo-1618083632973-90b12bbe5097"
+    ], "lengthMin": 11, "lengthMax": 12, "wingspanMin": 20, "wingspanMax": 23, "name": "Blackburnian Warbler",
+    "id": 601, "sciName": "Setophaga fusca", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1620589919646-b4f9da605438",
+      "https://images.unsplash.com/photo-1653864803867-0d14d3510694"
+    ], "lengthMin": 12, "lengthMax": 13, "wingspanMin": 16, "wingspanMax": 20, "name": "Yellow Warbler",
+    "id": 602, "sciName": "Setophaga petechia", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1618082335484-578604642a7e",
+      "https://images.unsplash.com/photo-1617995765962-47b5acf22f0e"
+    ], "lengthMin": 12, "lengthMax": 14, "wingspanMin": 19, "wingspanMax": 21, "name": "Chestnut-sided Warbler",
+    "id": 603, "sciName": "Setophaga pensylvanica", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1638900744581-20e17a950114"
+    ], "lengthMin": 11, "lengthMax": 13, "wingspanMin": 19, "wingspanMax": 20,
+    "name": "Black-throated Blue Warbler", "id": 605, "sciName": "Setophaga caerulescens", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1651771976721-be21815661fb",
+      "https://images.unsplash.com/photo-1620589081714-997e07d96d71",
+      "https://images.unsplash.com/photo-1620589081586-d584851e865e"
+    ], "lengthMin": 12, "lengthMax": 14, "wingspanMin": 20, "wingspanMax": 21, "name": "Palm Warbler",
+    "id": 606, "sciName": "Setophaga palmarum", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1650818671693-4a71ddb9fda4",
+      "https://images.unsplash.com/photo-1665404291847-99644019c5c3"
+    ], "lengthMin": 12, "lengthMax": 14, "wingspanMin": 19, "wingspanMax": 23, "name": "Yellow-rumped Warbler",
+    "id": 608, "sciName": "Setophaga coronata", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1661188326287-8a86d33260f2",
+      "https://images.unsplash.com/photo-1652101439096-bd167e1824e3",
+      "https://images.unsplash.com/photo-1652795080996-a226397f5fb7"
+    ], "lengthMin": 11, "lengthMax": 12, "wingspanMin": 17, "wingspanMax": 20,
+    "name": "Black-throated Green Warbler", "id": 616, "sciName": "Setophaga virens", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617995765791-6ccb19f19253"
+    ], "lengthMin": 12, "lengthMax": 15, "wingspanMin": 17, "wingspanMax": 22, "name": "Canada Warbler",
+    "id": 617, "sciName": "Cardellina canadensis", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Declining", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617995765952-b9b9a2ad992d",
+      "https://images.unsplash.com/photo-1665451470719-efa9ccafd3c8"
+    ], "lengthMin": 10, "lengthMax": 12, "wingspanMin": 14, "wingspanMax": 17, "name": "Wilson\u0027s Warbler",
+    "id": 618, "sciName": "Cardellina pusilla", "region": [
+    "NA"
+  ], "family": "Parulidae", "order": "Passeriformes", "status": "Common Bird in Steep Decline", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1617995765985-6db24655ad0b",
+      "https://images.unsplash.com/photo-1629303665571-9c4b10784656"
+    ], "lengthMin": 16, "lengthMax": 17, "wingspanMin": 25, "wingspanMax": 29, "name": "Scarlet Tanager",
+    "id": 623, "sciName": "Piranga olivacea", "region": [
+    "NA"
+  ], "family": "Cardinalidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1480775292373-5175d0634811",
+      "https://images.unsplash.com/photo-1534605835962-b27424cd7be7",
+      "https://images.unsplash.com/photo-1623715618305-ceb095873eb1"
+    ], "lengthMin": 21, "lengthMax": 23, "wingspanMin": 25, "wingspanMax": 31, "name": "Northern Cardinal",
+    "id": 625, "sciName": "Cardinalis cardinalis", "region": [
+    "NA"
+  ], "family": "Cardinalidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1628107819934-c462f80966ee",
+      "https://images.unsplash.com/photo-1590239214819-a9ad58942c79",
+      "https://images.unsplash.com/photo-1652055599920-1545892669f2"
+    ], "lengthMin": 18, "lengthMax": 21, "wingspanMin": 29, "wingspanMax": 33, "name": "Rose-breasted Grosbeak",
+    "id": 627, "sciName": "Pheucticus ludovicianus", "region": [
+    "NA"
+  ], "family": "Cardinalidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1634586636556-f41911550369",
+      "https://images.unsplash.com/photo-1634586637026-0aea335fa46e",
+      "https://images.unsplash.com/photo-1590239215418-8c78f7e21af4"
+    ], "lengthMin": 12, "lengthMax": 13, "wingspanMin": 19, "wingspanMax": 22, "name": "Indigo Bunting",
+    "id": 631, "sciName": "Passerina cyanea", "region": [
+    "NA"
+  ], "family": "Cardinalidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  },
+  {
+    "images": [
+      "https://images.unsplash.com/photo-1590182556565-9690c2b68c44"
+    ], "lengthMin": 14, "lengthMax": 16, "wingspanMin": 24, "wingspanMax": 26, "name": "Dickcissel",
+    "id": 634, "sciName": "Spiza americana", "region": [
+    "NA"
+  ], "family": "Cardinalidae", "order": "Passeriformes", "status": "Low Concern", "recordings": null
+  }
+]
