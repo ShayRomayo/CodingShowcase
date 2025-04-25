@@ -1,0 +1,66 @@
+<div class="searchableDropdown">
+    @if (!ReverseOrder)
+    {
+        <div class="searchBox">
+            <input autofocus type="search" @bind:event="oninput" @onkeyup="OnChangeHandler" @bind="_searchValue" @ref="_searchBox"/>
+        </div>
+    }
+    <div class="selectBox">
+        @if (!_filteredItems.Any())
+        {
+            if (_searchValue.Trim().Length >= 3)
+            {
+                <p>No birds found</p>
+            }
+            else
+            {
+                <p>Type at least three characters to search</p>
+            }
+        }
+        @foreach (var item in _filteredItems)
+        {
+            <div class="searchItem" @key="item.Id" @onclick="() => OnSelectHandler(item)">@item.Name</div>
+        }
+    </div>
+    @if (ReverseOrder)
+    {
+        <div class="searchBox">
+            <input autofocus type="search" @bind:event="oninput" @onkeyup="OnChangeHandler" @bind="_searchValue" @ref="_searchBox"/>
+        </div> 
+    }
+</div>
+
+
+@code {
+
+    [Parameter] public List<SearchableItem> Items { get; set; }
+    [Parameter] public EventCallback<SearchableItem> OnSelect { get; set; }
+    [Parameter] public bool ReverseOrder { get; set; }
+
+    private List<SearchableItem> _filteredItems { get; set; }
+    private string _searchValue;
+    private ElementReference _searchBox;
+
+    protected override void OnInitialized()
+    {
+        _filteredItems = [];
+        _searchValue = string.Empty;
+        
+        OnChangeHandler();
+    }
+
+    private void OnSelectHandler(SearchableItem item)
+    {
+        _searchValue = string.Empty;
+        OnSelect.InvokeAsync(item);
+        Items.Remove(item);
+        
+        OnChangeHandler();
+        _searchBox.FocusAsync();
+    }
+    
+    private void OnChangeHandler()
+    {
+        _filteredItems = string.IsNullOrWhiteSpace(_searchValue) || _searchValue.Trim().Length < 3 ? [] : Items.Where(item => item.Name.Trim().ToUpper().Contains(_searchValue.Trim().ToUpper())).ToList();
+    }
+}

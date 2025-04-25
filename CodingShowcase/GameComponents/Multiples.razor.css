@@ -96,7 +96,12 @@
 
 @media(max-width: 767px) {
     .multiples {
-        width: calc(100vw - 1rem);
-        height: calc(100vw - 1rem);
+        width: calc(100vw - 2rem);
+        height: calc(100vw - 2rem);
     }
+}
+
+.gestureHandler {
+    display: flex;
+    flex-direction: column;
 }

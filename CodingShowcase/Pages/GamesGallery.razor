@@ -5,18 +5,42 @@
 <div class="gamesGallery">
     <div class="galleryHeader">Gallery</div>
     <div class="gameCard">
-        <button disabled="disabled">
+        <button @onclick="PreviousGame">
             <i class="fa fa-arrow-left"/>
         </button>
-        <a href="games/multiples">
-            <img src="images/2048_snapshot.png" alt="Some Game"/>
+        <a href="@_games[_currentGame].Link">
+            <img src="@_games[_currentGame].Image" alt="@_games[_currentGame].Alt"/>
         </a>
-        <button disabled="disabled">
+        <button @onclick="NextGame">
             <i class="fa fa-arrow-right"/>
         </button>
     </div>
 </div>
 
 @code {
-    
+
+    private List<GameCard> _games =
+    [
+        new("games/multiples", "images/2048_snapshot.png", "2048 Clone"),
+        new("games/birdle", "images/birdle_snapshot.png", "Wordle but for birds")
+    ];
+
+    private int _currentGame;
+
+    private void NextGame()
+    {
+        _currentGame = (_currentGame + _games.Count + 1) % _games.Count;
+    }
+
+    private void PreviousGame()
+    {
+        _currentGame = (_currentGame + _games.Count - 1) % _games.Count;
+    }
+
+    public class GameCard(string link, string image, string alt)
+    {
+        public string Link { get; set; } = link;
+        public string Image { get; set; } = image;
+        public string Alt { get; set; } = alt;
+    }
 }

@@ -1,0 +1,77 @@
+<div class="birdComparator">
+    @{
+        /* For numeric values on the guess
+         *  assigns negative number if the guess has a lower value
+         *  assigns zero if the guess has the same value
+         *  assigns positive number if the guess has a higher value
+         */
+        var name = Selection.Name != null && Selection.Name.Equals(Target.Name);
+        var wingspan = Selection.WingspanMax - Target.WingspanMax;
+        var length = Selection.LengthMax - Target.LengthMax;
+        // Checks that the regions have the same count and that all the selection regions can be found in target regions
+        var region = CheckRegion(Selection.Region, Target.Region);
+        var order = Selection.Order.Equals(Target.Order);
+        var family = Selection.Family.Equals(Target.Family);
+    }
+    <div class="name @(name ? Correct : Incorrect)">
+        <p>@Selection.Name</p>
+    </div>
+    <div class="wingspan @(wingspan == 0 ? Correct : Incomplete)">
+        @if (wingspan != 0)
+        {
+            <i class="fa-solid fa-arrow-@(wingspan < 0 ? "up" : "down")"/>
+        }
+        @Selection.WingspanMax
+    </div>
+    <div class="length @(length == 0 ? Correct : Incomplete)">
+        @if (length != 0)
+        {
+            <i class="fa-solid fa-arrow-@(length < 0 ? "up" : "down")"/>
+        }
+        @Selection.LengthMax
+    </div>
+    <div class="region @GetRegionClassValue(region)">
+        <p>@string.Join(", ", Selection.Region)</p>
+    </div>
+    <div class="order @(order ? Correct : Incorrect)">
+        <p>@Selection.Order</p>
+    </div>
+    <div class="family @(family ? Correct : Incorrect)">
+        <p>@Selection.Family</p>
+    </div>
+</div>
+
+@code {
+    const string Incomplete = "incomplete";
+    const string Correct = "correct";
+    const string Incorrect = "incorrect";
+
+    [Parameter] 
+    public required Birdle.Bird Selection { get; set; }
+    
+    [Parameter]
+    public required Birdle.Bird Target { get; set; }
+    
+    private int CheckRegion(List<string> selectionRegions, List<string> targetRegions)
+    {
+        var selectionCount = selectionRegions.Count;
+        var targetCount = targetRegions.Count;
+        var sum = selectionRegions.Count(targetRegions.Contains);
+
+        if (sum == selectionCount && selectionCount == targetCount) return 0;
+
+        if (sum == 0) return -1;
+
+        return 1;
+    }
+
+    private string GetRegionClassValue(int regionComparator)
+    {
+        if (regionComparator == 0)
+        {
+            return Correct;
+        }
+
+        return regionComparator > 0 ? Incomplete : Incorrect;
+    }
+}

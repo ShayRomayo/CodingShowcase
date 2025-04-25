@@ -1,0 +1,48 @@
+.searchableDropdown {
+    width: 45vw;
+    
+    margin: 0.5rem;
+}
+
+.selectBox {
+    height: 15vw;
+    overflow-y: scroll;
+}
+
+.searchItem {
+    color: var(--dark-text-color);
+    
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    
+    border-top: 1px solid var(--dark-cream);
+    border-left: 1px solid var(--dark-cream);
+    border-right: 1px solid var(--dark-cream);
+    border-radius: 0.25rem;
+}
+.searchItem:last-of-type {
+    border-bottom: 1px solid var(--dark-cream);
+}
+.searchItem:hover {
+    background-color: var(--dark-cream);
+}
+
+input {
+    width: 100%;
+    align-self: center;
+    
+    margin: 0.5rem 0 0.5rem 0;
+    
+    font-size: 1.5rem;
+    
+    background-color: var(--dark-cream);
+    color: var(--dark-subtext-color);
+    
+    border: 2px solid var(--matcha-secondary);
+    border-radius: 0.25rem;
+}
+
+p {
+    margin: 0;
+    justify-self: center;
+}

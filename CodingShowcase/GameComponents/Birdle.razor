@@ -1,0 +1,232 @@
+@page "/games/birdle"
+@using System.Text.Json.Serialization
+@inject HttpClient Http
+
+<div class="birdle">
+    @if (!_hasLoaded)
+    {
+        <p>
+            Still loading the content.
+        </p>
+    }
+    
+    @* TODO: Add bird call of bird on win or possibly as a hint *@
+    @* <audio controls autoplay> *@
+    @*     <source src="https://xeno-canto.org/706126/download" type="audio/mpeg"> *@
+    @* </audio> *@
+
+    else
+    {
+        if (_isGameOver)
+        {
+            <button @onclick="NewGame">Restart Game</button>
+        }
+        else
+        {
+            <SearchableDropdown Items="_items" OnSelect="SelectBird" ReverseOrder="true"></SearchableDropdown>
+        }
+        
+        <div class="guessBlock">
+            <div class="columns">
+                <p class="label">Name</p>
+                <p class="label">Wingspan</p>
+                <p class="label">Length</p>
+                <p class="label">Regions</p>
+                <p class="label">Order</p>
+                <p class="label">Family</p>
+            </div>
+            @for (var x = _selectedBirds.Count - 1; x >= 0; x--)
+            {
+                <BirdComparator Selection="_selectedBirds[x]" Target="_targetBird"></BirdComparator>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private List<Bird> _birds = [];
+    private List<Bird> _selectedBirds = [];
+    private Bird _targetBird = new Bird();
+    private Random _rand = new Random();
+    private List<SearchableItem> _items = [];
+    private bool _hasLoaded;
+    private bool _isGameOver;
+    
+    private async void SelectBird(SearchableItem item)
+    {
+        var selectedBird = _birds.First(bird => bird.Id == item.Id);
+
+        if (IsBird(selectedBird))
+        {
+            _isGameOver = true;
+        }
+        _selectedBirds.Add(selectedBird);
+        _birds.Remove(selectedBird);
+    }
+
+    private bool IsBird(Bird selectedBird)
+    {
+        return selectedBird.Id.Equals(_targetBird.Id);
+    }
+    
+    protected override async Task OnInitializedAsync()
+    {
+        _birds = await Http.GetFromJsonAsync<List<Bird>>("data/birds.json") ?? [];
+        NewGame();
+        _hasLoaded = true;
+    }
+
+    private void NewGame()
+    {
+        _birds.AddRange(_selectedBirds);
+        _selectedBirds = [];
+        _birds.Sort((a, b) => string.Compare(a.Name, b.Name, StringComparison.OrdinalIgnoreCase));
+        _targetBird = _birds[_rand.Next(_birds.Count)];
+        _items = [];
+        foreach (var bird in _birds)
+        {
+            _items.Add(new SearchableItem(bird.Id, bird.Name ?? string.Empty));
+        }
+
+        _isGameOver = false;
+    }
+    
+    public class Recording
+    {
+        [JsonPropertyName("date")]
+        public string? Date { get; set; }
+
+        [JsonPropertyName("loc")]
+        public string? Loc { get; set; }
+
+        [JsonPropertyName("birdId")]
+        public int BirdId { get; set; }
+
+        [JsonPropertyName("lic")]
+        public string? Lic { get; set; }
+
+        [JsonPropertyName("type")]
+        public string? Type { get; set; }
+
+        [JsonPropertyName("gen")]
+        public string? Gen { get; set; }
+
+        [JsonPropertyName("rec")]
+        public string? Rec { get; set; }
+
+        [JsonPropertyName("ssp")]
+        public string? Ssp { get; set; }
+
+        [JsonPropertyName("rmk")]
+        public string? Rmk { get; set; }
+
+        [JsonPropertyName("file")]
+        public string? File { get; set; }
+
+        [JsonPropertyName("uploaded")]
+        public string? Uploaded { get; set; }
+
+        [JsonPropertyName("playback-used")]
+        public string? Playbackused { get; set; }
+
+        [JsonPropertyName("id")]
+        public string? Id { get; set; }
+
+        [JsonPropertyName("sp")]
+        public string? Sp { get; set; }
+
+        [JsonPropertyName("lat")]
+        public string? Lat { get; set; }
+
+        [JsonPropertyName("lng")]
+        public string? Lng { get; set; }
+
+        [JsonPropertyName("bird-seen")]
+        public string? Birdseen { get; set; }
+
+        [JsonPropertyName("length")]
+        public string? Length { get; set; }
+
+        [JsonPropertyName("cnt")]
+        public string? Cnt { get; set; }
+
+        [JsonPropertyName("sono")]
+        public Sono Sono { get; set; }
+
+        [JsonPropertyName("alt")]
+        public string? Alt { get; set; }
+
+        [JsonPropertyName("en")]
+        public string? En { get; set; }
+
+        [JsonPropertyName("also")]
+        public List<string?> Also { get; set; } = [];
+
+        [JsonPropertyName("url")]
+        public string? Url { get; set; }
+
+        [JsonPropertyName("q")]
+        public string? Q { get; set; }
+
+        [JsonPropertyName("file-name")]
+        public string? Filename { get; set; }
+
+        [JsonPropertyName("time")]
+        public string? Time { get; set; }
+    }
+
+    public class Bird
+    {
+        [JsonPropertyName("images")]
+        public List<string?> Images { get; set; } = [];
+
+        [JsonPropertyName("lengthMin")]
+        public int LengthMin { get; set; }
+
+        [JsonPropertyName("lengthMax")]
+        public int LengthMax { get; set; }
+        
+        [JsonPropertyName("wingspanMin")]
+        public int WingspanMin { get; set; }
+        
+        [JsonPropertyName("wingspanMax")]
+        public int WingspanMax { get; set; }
+
+        [JsonPropertyName("name")]
+        public string? Name { get; set; }
+
+        [JsonPropertyName("id")]
+        public int Id { get; set; }
+
+        [JsonPropertyName("sciName")]
+        public string? SciName { get; set; }
+
+        [JsonPropertyName("region")] 
+        public List<string> Region { get; set; } = [];
+
+        [JsonPropertyName("family")] public string Family { get; set; } = string.Empty;
+
+        [JsonPropertyName("order")] public string Order { get; set; } = string.Empty;
+
+        [JsonPropertyName("status")]
+        public string? Status { get; set; }
+
+        [JsonPropertyName("recordings")] 
+        public List<Recording> Recordings { get; set; }
+    }
+
+    public class Sono
+    {
+        [JsonPropertyName("small")]
+        public string? Small { get; set; }
+
+        [JsonPropertyName("large")]
+        public string? Large { get; set; }
+
+        [JsonPropertyName("med")]
+        public string? Med { get; set; }
+
+        [JsonPropertyName("full")]
+        public string? Full { get; set; }
+    }
+}
